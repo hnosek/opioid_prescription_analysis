@@ -1,0 +1,198 @@
+---
+title: "Relationship of Opioid Prescription Rates and Drug Related Deaths - Report"
+author: "Hunter Nosek"
+date: "12/1/2018"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  tidy=FALSE,     # display code as typed
+  size="small",   # slightly smaller font for code
+  fig.align = "center",  # center graphs on page
+  warning = FALSE, message = FALSE,  # suppress messages from ggplot2
+  cache = FALSE,   # save time re-knitting
+  out.width = "90%")
+
+library(readr)
+library(mdsr)
+library(ggplot2)
+library(maps)
+library(plotly)
+library(readxl)
+
+load(file = "data/intendedData.rda")
+load(file = "data/intendedDataPartTwo.rda")
+load(file = "data/ditchtheaxes.rda")
+
+```
+
+
+# Introduction
+
+
+According to the American Statistical Association, drug overdose deaths are now the leading cause of injury and death in the United States. As of 2016, 2.1 million Americans have an opioid use disorder.
+
+The main question that I used to guide myself on this is whether the rate of overdose deaths is associated with the opioid prescription rate. Another question that I used is whether the of overdose deaths is associated with the extended-release opioid prescription rate. Extended-release medications are medications that are taken less frequently than regular medications, but the body takes a longer time clearing out the drug due to the amount of medication in each serving.
+
+Here are the sources of my data:
+
+>https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/OpioidMap.html
+
+>https://wonder.cdc.gov/controller/datarequest/D77
+
+# Analysis
+
+## Numerical and graphical explorations
+
+By comparing the two following maps, we can see that the ratio of deaths has increased by quite a bit all around the nation.
+
+```{r}
+deathPercByStateData %>% 
+  filter(Year == 2000) %>% 
+  ggplot(aes(x = long, y = lat, group = group)) + 
+  geom_polygon(aes(fill = deathPerc)) +
+  coord_fixed(1.3) +
+  ditch_the_axes + 
+  theme(plot.title = element_text(hjust = 0.5)) + 
+  labs(title = "Ratio of Deaths per State Population - 2000", 
+       fill = "Death Percentage")
+```
+
+```{r}
+deathPercByStateData %>% 
+  filter(Year == 2016) %>% 
+  ggplot(aes(x = long, y = lat, group = group)) + 
+  geom_polygon(aes(fill = deathPerc)) +
+  coord_fixed(1.3) +
+  ditch_the_axes + 
+  theme(plot.title = element_text(hjust = 0.5)) + 
+  labs(title = "Ratio of Deaths per State Population - 2016", 
+       fill = "Death Percentage")
+
+```
+
+Because these are deaths related to opioid misuse, I decided to research opioid prescription rates to see if there is any relationship with the increasing death percentages.
+
+```{r cars}
+q <- dfNew %>% 
+  plot_ly(
+    x = ~op_rate, 
+    y = ~DeathperPop, 
+    color = ~State,
+    size = ~Population, 
+    frame = ~Year, 
+    text = ~State, 
+    hoverinfo = "text", 
+    type = 'scatter', 
+    mode = 'markers'
+  ) %>% 
+  layout(
+    xaxis = list(
+      type = "log"
+    ), 
+    showlegend = FALSE
+  ) %>% 
+  animation_opts(1250)
+
+q
+```
+
+Above is the opioid prescription rate against the deaths related to overdose per population ratio. The graph shows that as the opioid prescription rate decreases over time, the death per population ratio increases. 
+
+```{r}
+df_op_change <-
+  dfNew %>% 
+  filter(Year == 2016) %>% 
+  select(Year, State, op_rate_change)
+
+  DT::datatable(df_op_change,options = list(scrollX = TRUE))
+
+```
+
+
+
+```{r}
+glyphReady <-
+dfNew %>% 
+  group_by(Year) %>% 
+  mutate(avg_deathperpop = mean(DeathperPop, na.rm = TRUE))
+
+ggplot(glyphReady, aes(x = Year, y = avg_deathperpop))+
+  geom_line() +
+  labs(title = "The national average of opioid related deaths has been growing every year")
+```
+
+
+As you can see, the opioid prescription rate has been decreasing over the past few years, yet the deaths related to opioid misuse have been increasing. Although there may be a lag taking place, I decided to see if the extended-release opioid prescription rate has anything intriguing to show
+
+
+```{r}
+p <- dfNew %>% 
+  plot_ly(
+    x = ~extended_op_rate, 
+    y = ~DeathperPop, 
+    color = ~State,
+    size = ~Population, 
+    frame = ~Year, 
+    text = ~State, 
+    hoverinfo = "text", 
+    type = 'scatter', 
+    mode = 'markers'
+  ) %>% 
+  layout(
+    xaxis = list(
+      type = "log"
+    ), 
+    showlegend = FALSE
+  ) %>% 
+  animation_opts(1250)
+
+p
+```
+
+This graph shows that there is definitely more of a relationship between these two variables than the previous graph.
+
+
+
+
+
+```{r}
+df_extendedop_change <-
+  dfNew %>% 
+  filter(Year == 2016) %>% 
+  select(Year, State, extended_op_rate_change)
+
+ DT::datatable(df_extendedop_change,options = list(scrollX = TRUE))
+```
+
+
+
+Here we see that the prescription rates for extended-release opioid have been increasing over time.
+
+
+
+```{r}
+
+
+ggplot(glyphReady, aes(x = Year, y = avg_deathperpop))+
+  geom_line() +
+  labs(title = "The national average of opioid related deaths has been growing every year")
+```
+
+Here, we can see that the national opioid related death average has been going up. This matches up with the extended-release graph, rather than the regular opioid graph.
+
+
+
+
+# Conclusion
+
+Again, there still may be a lag effect in place here, but it in our case it is safe to conclude that extended-release opioids have more of an impact on opioid related deaths than regular opioids. This may be due to the higher amount of opioid medication in extended release opioids compared to normal opioids. It doesn't have as much of a spike at first, but it is in the bloodstream longer, therefore it may cause more injuries or even overdoses. I believe that this should be looked at by hospitals and other data scientists to see if the prescription rate of extended-release opioids should be lowered. After making these graphs and looking at the numbers on the relationship, this report concludes that the extended-release opioid prescription rate should be lowered. A further question could be: If the change in regular opioid prescription rate was increased and the change in extended-release prescription rate was decreased over a four year period, would the death per population ratio decrease?
+
+# References
+
+1. Mui, Katie. “Extended Release Drugs: Are They Right For You?” GoodRx, 9 Nov. 2018, www.goodrx.com/blog/extended-release-drugs-are-they-right-for-you/.
+
+2. “What Does Time-Release Mean in Terms of Drug Consumption?” Desert Hope, 2018, deserthopetreatment.com/drug-abuse/what-is-time-release/.

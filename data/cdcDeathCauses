@@ -1,0 +1,919 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"MCD - Drug/Alcohol Induced"	"MCD - Drug/Alcohol Induced Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"Alabama"	"01"	"1999"	"1999"	"Drug-induced causes"	"D"	196	4430141	4.4	4.5	0.0%
+	"Alabama"	"01"	"2000"	"2000"	"Drug-induced causes"	"D"	226	4447100	5.1	5.1	0.0%
+	"Alabama"	"01"	"2001"	"2001"	"Drug-induced causes"	"D"	260	4467634	5.8	5.9	0.0%
+	"Alabama"	"01"	"2002"	"2002"	"Drug-induced causes"	"D"	243	4480089	5.4	5.5	0.0%
+	"Alabama"	"01"	"2003"	"2003"	"Drug-induced causes"	"D"	235	4503491	5.2	5.3	0.0%
+	"Alabama"	"01"	"2004"	"2004"	"Drug-induced causes"	"D"	324	4530729	7.2	7.2	0.0%
+	"Alabama"	"01"	"2005"	"2005"	"Drug-induced causes"	"D"	310	4569805	6.8	6.9	0.0%
+	"Alabama"	"01"	"2006"	"2006"	"Drug-induced causes"	"D"	443	4628981	9.6	9.7	0.1%
+	"Alabama"	"01"	"2007"	"2007"	"Drug-induced causes"	"D"	542	4672840	11.6	11.7	0.1%
+	"Alabama"	"01"	"2008"	"2008"	"Drug-induced causes"	"D"	645	4718206	13.7	13.7	0.1%
+	"Alabama"	"01"	"2009"	"2009"	"Drug-induced causes"	"D"	656	4757938	13.8	14.2	0.1%
+	"Alabama"	"01"	"2010"	"2010"	"Drug-induced causes"	"D"	579	4779736	12.1	12.4	0.1%
+	"Alabama"	"01"	"2011"	"2011"	"Drug-induced causes"	"D"	582	4802740	12.1	12.4	0.1%
+	"Alabama"	"01"	"2012"	"2012"	"Drug-induced causes"	"D"	588	4822023	12.2	12.6	0.1%
+	"Alabama"	"01"	"2013"	"2013"	"Drug-induced causes"	"D"	638	4833722	13.2	13.4	0.1%
+	"Alabama"	"01"	"2014"	"2014"	"Drug-induced causes"	"D"	765	4849377	15.8	16.0	0.1%
+	"Alabama"	"01"	"2015"	"2015"	"Drug-induced causes"	"D"	773	4858979	15.9	16.3	0.1%
+	"Alabama"	"01"	"2016"	"2016"	"Drug-induced causes"	"D"	799	4863300	16.4	17.0	0.1%
+	"Alaska"	"02"	"1999"	"1999"	"Drug-induced causes"	"D"	53	624779	8.5	8.5	0.0%
+	"Alaska"	"02"	"2000"	"2000"	"Drug-induced causes"	"D"	55	626932	8.8	8.1	0.0%
+	"Alaska"	"02"	"2001"	"2001"	"Drug-induced causes"	"D"	68	633714	10.7	10.3	0.0%
+	"Alaska"	"02"	"2002"	"2002"	"Drug-induced causes"	"D"	89	642337	13.9	12.9	0.0%
+	"Alaska"	"02"	"2003"	"2003"	"Drug-induced causes"	"D"	89	648414	13.7	13.6	0.0%
+	"Alaska"	"02"	"2004"	"2004"	"Drug-induced causes"	"D"	93	659286	14.1	13.9	0.0%
+	"Alaska"	"02"	"2005"	"2005"	"Drug-induced causes"	"D"	88	666946	13.2	13.1	0.0%
+	"Alaska"	"02"	"2006"	"2006"	"Drug-induced causes"	"D"	83	675302	12.3	12.3	0.0%
+	"Alaska"	"02"	"2007"	"2007"	"Drug-induced causes"	"D"	78	680300	11.5	11.2	0.0%
+	"Alaska"	"02"	"2008"	"2008"	"Drug-induced causes"	"D"	146	687455	21.2	21.3	0.0%
+	"Alaska"	"02"	"2009"	"2009"	"Drug-induced causes"	"D"	140	698895	20.0	19.2	0.0%
+	"Alaska"	"02"	"2010"	"2010"	"Drug-induced causes"	"D"	99	710231	13.9	13.8	0.0%
+	"Alaska"	"02"	"2011"	"2011"	"Drug-induced causes"	"D"	117	722718	16.2	15.7	0.0%
+	"Alaska"	"02"	"2012"	"2012"	"Drug-induced causes"	"D"	133	731449	18.2	18.0	0.0%
+	"Alaska"	"02"	"2013"	"2013"	"Drug-induced causes"	"D"	110	735132	15.0	15.3	0.0%
+	"Alaska"	"02"	"2014"	"2014"	"Drug-induced causes"	"D"	129	736732	17.5	17.4	0.0%
+	"Alaska"	"02"	"2015"	"2015"	"Drug-induced causes"	"D"	146	738432	19.8	19.1	0.0%
+	"Alaska"	"02"	"2016"	"2016"	"Drug-induced causes"	"D"	147	741894	19.8	19.5	0.0%
+	"Arizona"	"04"	"1999"	"1999"	"Drug-induced causes"	"D"	567	5023823	11.3	11.7	0.1%
+	"Arizona"	"04"	"2000"	"2000"	"Drug-induced causes"	"D"	565	5130632	11.0	11.5	0.1%
+	"Arizona"	"04"	"2001"	"2001"	"Drug-induced causes"	"D"	600	5273477	11.4	11.9	0.1%
+	"Arizona"	"04"	"2002"	"2002"	"Drug-induced causes"	"D"	683	5396255	12.7	13.1	0.1%
+	"Arizona"	"04"	"2003"	"2003"	"Drug-induced causes"	"D"	720	5510364	13.1	13.6	0.1%
+	"Arizona"	"04"	"2004"	"2004"	"Drug-induced causes"	"D"	792	5652404	14.0	14.6	0.1%
+	"Arizona"	"04"	"2005"	"2005"	"Drug-induced causes"	"D"	857	5839077	14.7	15.2	0.1%
+	"Arizona"	"04"	"2006"	"2006"	"Drug-induced causes"	"D"	957	6029141	15.9	16.3	0.1%
+	"Arizona"	"04"	"2007"	"2007"	"Drug-induced causes"	"D"	1031	6167681	16.7	17.1	0.1%
+	"Arizona"	"04"	"2008"	"2008"	"Drug-induced causes"	"D"	888	6280362	14.1	14.5	0.1%
+	"Arizona"	"04"	"2009"	"2009"	"Drug-induced causes"	"D"	1085	6343154	17.1	17.4	0.2%
+	"Arizona"	"04"	"2010"	"2010"	"Drug-induced causes"	"D"	1225	6392017	19.2	19.4	0.2%
+	"Arizona"	"04"	"2011"	"2011"	"Drug-induced causes"	"D"	1196	6482505	18.4	18.7	0.2%
+	"Arizona"	"04"	"2012"	"2012"	"Drug-induced causes"	"D"	1283	6553255	19.6	20.0	0.2%
+	"Arizona"	"04"	"2013"	"2013"	"Drug-induced causes"	"D"	1339	6626624	20.2	20.4	0.2%
+	"Arizona"	"04"	"2014"	"2014"	"Drug-induced causes"	"D"	1325	6731484	19.7	19.9	0.2%
+	"Arizona"	"04"	"2015"	"2015"	"Drug-induced causes"	"D"	1391	6828065	20.4	20.7	0.2%
+	"Arizona"	"04"	"2016"	"2016"	"Drug-induced causes"	"D"	1527	6931071	22.0	22.3	0.2%
+	"Arkansas"	"05"	"1999"	"1999"	"Drug-induced causes"	"D"	131	2651860	4.9	5.1	0.0%
+	"Arkansas"	"05"	"2000"	"2000"	"Drug-induced causes"	"D"	161	2673400	6.0	6.2	0.0%
+	"Arkansas"	"05"	"2001"	"2001"	"Drug-induced causes"	"D"	142	2691571	5.3	5.4	0.0%
+	"Arkansas"	"05"	"2002"	"2002"	"Drug-induced causes"	"D"	201	2705927	7.4	7.7	0.0%
+	"Arkansas"	"05"	"2003"	"2003"	"Drug-induced causes"	"D"	214	2724816	7.9	8.1	0.0%
+	"Arkansas"	"05"	"2004"	"2004"	"Drug-induced causes"	"D"	259	2749686	9.4	9.7	0.0%
+	"Arkansas"	"05"	"2005"	"2005"	"Drug-induced causes"	"D"	302	2781097	10.9	11.3	0.0%
+	"Arkansas"	"05"	"2006"	"2006"	"Drug-induced causes"	"D"	321	2821761	11.4	11.8	0.0%
+	"Arkansas"	"05"	"2007"	"2007"	"Drug-induced causes"	"D"	326	2848650	11.4	11.8	0.0%
+	"Arkansas"	"05"	"2008"	"2008"	"Drug-induced causes"	"D"	392	2874554	13.6	14.2	0.1%
+	"Arkansas"	"05"	"2009"	"2009"	"Drug-induced causes"	"D"	410	2896843	14.2	14.7	0.1%
+	"Arkansas"	"05"	"2010"	"2010"	"Drug-induced causes"	"D"	385	2915918	13.2	13.7	0.1%
+	"Arkansas"	"05"	"2011"	"2011"	"Drug-induced causes"	"D"	386	2937979	13.1	13.6	0.1%
+	"Arkansas"	"05"	"2012"	"2012"	"Drug-induced causes"	"D"	434	2949131	14.7	15.1	0.1%
+	"Arkansas"	"05"	"2013"	"2013"	"Drug-induced causes"	"D"	364	2959373	12.3	12.6	0.1%
+	"Arkansas"	"05"	"2014"	"2014"	"Drug-induced causes"	"D"	403	2966369	13.6	14.1	0.1%
+	"Arkansas"	"05"	"2015"	"2015"	"Drug-induced causes"	"D"	434	2978204	14.6	15.3	0.1%
+	"Arkansas"	"05"	"2016"	"2016"	"Drug-induced causes"	"D"	436	2988248	14.6	15.1	0.1%
+	"California"	"06"	"1999"	"1999"	"Drug-induced causes"	"D"	3173	33499204	9.5	9.7	0.5%
+	"California"	"06"	"2000"	"2000"	"Drug-induced causes"	"D"	2356	33871648	7.0	7.1	0.3%
+	"California"	"06"	"2001"	"2001"	"Drug-induced causes"	"D"	1528	34479458	4.4	4.5	0.2%
+	"California"	"06"	"2002"	"2002"	"Drug-induced causes"	"D"	3648	34871843	10.5	10.7	0.5%
+	"California"	"06"	"2003"	"2003"	"Drug-induced causes"	"D"	3869	35253159	11.0	11.1	0.6%
+	"California"	"06"	"2004"	"2004"	"Drug-induced causes"	"D"	3866	35574576	10.9	10.9	0.6%
+	"California"	"06"	"2005"	"2005"	"Drug-induced causes"	"D"	3986	35827943	11.1	11.1	0.6%
+	"California"	"06"	"2006"	"2006"	"Drug-induced causes"	"D"	4272	36021202	11.9	11.8	0.6%
+	"California"	"06"	"2007"	"2007"	"Drug-induced causes"	"D"	4505	36250311	12.4	12.2	0.7%
+	"California"	"06"	"2008"	"2008"	"Drug-induced causes"	"D"	4512	36604337	12.3	12.1	0.7%
+	"California"	"06"	"2009"	"2009"	"Drug-induced causes"	"D"	4753	36961229	12.9	12.6	0.7%
+	"California"	"06"	"2010"	"2010"	"Drug-induced causes"	"D"	4676	37253956	12.6	12.2	0.7%
+	"California"	"06"	"2011"	"2011"	"Drug-induced causes"	"D"	4791	37691912	12.7	12.3	0.7%
+	"California"	"06"	"2012"	"2012"	"Drug-induced causes"	"D"	4692	38041430	12.3	11.9	0.7%
+	"California"	"06"	"2013"	"2013"	"Drug-induced causes"	"D"	5221	38332521	13.6	13.1	0.8%
+	"California"	"06"	"2014"	"2014"	"Drug-induced causes"	"D"	5276	38802500	13.6	13.0	0.8%
+	"California"	"06"	"2015"	"2015"	"Drug-induced causes"	"D"	5375	39144818	13.7	13.1	0.8%
+	"California"	"06"	"2016"	"2016"	"Drug-induced causes"	"D"	5398	39250017	13.8	13.0	0.8%
+	"Colorado"	"08"	"1999"	"1999"	"Drug-induced causes"	"D"	384	4226018	9.1	8.8	0.1%
+	"Colorado"	"08"	"2000"	"2000"	"Drug-induced causes"	"D"	393	4301261	9.1	8.9	0.1%
+	"Colorado"	"08"	"2001"	"2001"	"Drug-induced causes"	"D"	460	4425687	10.4	10.1	0.1%
+	"Colorado"	"08"	"2002"	"2002"	"Drug-induced causes"	"D"	501	4490406	11.2	10.9	0.1%
+	"Colorado"	"08"	"2003"	"2003"	"Drug-induced causes"	"D"	572	4528732	12.6	12.3	0.1%
+	"Colorado"	"08"	"2004"	"2004"	"Drug-induced causes"	"D"	561	4575013	12.3	11.9	0.1%
+	"Colorado"	"08"	"2005"	"2005"	"Drug-induced causes"	"D"	675	4631888	14.6	14.1	0.1%
+	"Colorado"	"08"	"2006"	"2006"	"Drug-induced causes"	"D"	688	4720423	14.6	14.1	0.1%
+	"Colorado"	"08"	"2007"	"2007"	"Drug-induced causes"	"D"	792	4803868	16.5	15.9	0.1%
+	"Colorado"	"08"	"2008"	"2008"	"Drug-induced causes"	"D"	803	4889730	16.4	15.9	0.1%
+	"Colorado"	"08"	"2009"	"2009"	"Drug-induced causes"	"D"	840	4972195	16.9	16.3	0.1%
+	"Colorado"	"08"	"2010"	"2010"	"Drug-induced causes"	"D"	713	5029196	14.2	13.9	0.1%
+	"Colorado"	"08"	"2011"	"2011"	"Drug-induced causes"	"D"	887	5116796	17.3	16.9	0.1%
+	"Colorado"	"08"	"2012"	"2012"	"Drug-induced causes"	"D"	877	5187582	16.9	16.3	0.1%
+	"Colorado"	"08"	"2013"	"2013"	"Drug-induced causes"	"D"	910	5268367	17.3	16.7	0.1%
+	"Colorado"	"08"	"2014"	"2014"	"Drug-induced causes"	"D"	983	5355866	18.4	17.7	0.1%
+	"Colorado"	"08"	"2015"	"2015"	"Drug-induced causes"	"D"	949	5456574	17.4	16.8	0.1%
+	"Colorado"	"08"	"2016"	"2016"	"Drug-induced causes"	"D"	1030	5540545	18.6	18.1	0.1%
+	"Connecticut"	"09"	"1999"	"1999"	"Drug-induced causes"	"D"	337	3386401	10.0	9.7	0.0%
+	"Connecticut"	"09"	"2000"	"2000"	"Drug-induced causes"	"D"	353	3405565	10.4	10.2	0.1%
+	"Connecticut"	"09"	"2001"	"2001"	"Drug-induced causes"	"D"	340	3432835	9.9	9.7	0.0%
+	"Connecticut"	"09"	"2002"	"2002"	"Drug-induced causes"	"D"	365	3458749	10.6	10.6	0.1%
+	"Connecticut"	"09"	"2003"	"2003"	"Drug-induced causes"	"D"	318	3484336	9.1	9.1	0.0%
+	"Connecticut"	"09"	"2004"	"2004"	"Drug-induced causes"	"D"	349	3496094	10.0	10.1	0.1%
+	"Connecticut"	"09"	"2005"	"2005"	"Drug-induced causes"	"D"	316	3506956	9.0	9.1	0.0%
+	"Connecticut"	"09"	"2006"	"2006"	"Drug-induced causes"	"D"	435	3517460	12.4	12.3	0.1%
+	"Connecticut"	"09"	"2007"	"2007"	"Drug-induced causes"	"D"	447	3527270	12.7	12.6	0.1%
+	"Connecticut"	"09"	"2008"	"2008"	"Drug-induced causes"	"D"	405	3545579	11.4	11.2	0.1%
+	"Connecticut"	"09"	"2009"	"2009"	"Drug-induced causes"	"D"	406	3561807	11.4	11.4	0.1%
+	"Connecticut"	"09"	"2010"	"2010"	"Drug-induced causes"	"D"	375	3574097	10.5	10.4	0.1%
+	"Connecticut"	"09"	"2011"	"2011"	"Drug-induced causes"	"D"	414	3580709	11.6	11.5	0.1%
+	"Connecticut"	"09"	"2012"	"2012"	"Drug-induced causes"	"D"	455	3590347	12.7	12.5	0.1%
+	"Connecticut"	"09"	"2013"	"2013"	"Drug-induced causes"	"D"	588	3596080	16.4	16.2	0.1%
+	"Connecticut"	"09"	"2014"	"2014"	"Drug-induced causes"	"D"	639	3596677	17.8	18.0	0.1%
+	"Connecticut"	"09"	"2015"	"2015"	"Drug-induced causes"	"D"	815	3590886	22.7	22.4	0.1%
+	"Connecticut"	"09"	"2016"	"2016"	"Drug-induced causes"	"D"	1003	3576452	28.0	28.2	0.1%
+	"Delaware"	"10"	"1999"	"1999"	"Drug-induced causes"	"D"	56	774990	7.2	7.2	0.0%
+	"Delaware"	"10"	"2000"	"2000"	"Drug-induced causes"	"D"	74	783600	9.4	9.5	0.0%
+	"Delaware"	"10"	"2001"	"2001"	"Drug-induced causes"	"D"	76	795699	9.6	9.5	0.0%
+	"Delaware"	"10"	"2002"	"2002"	"Drug-induced causes"	"D"	95	806169	11.8	11.8	0.0%
+	"Delaware"	"10"	"2003"	"2003"	"Drug-induced causes"	"D"	100	818003	12.2	12.2	0.0%
+	"Delaware"	"10"	"2004"	"2004"	"Drug-induced causes"	"D"	96	830803	11.6	11.5	0.0%
+	"Delaware"	"10"	"2005"	"2005"	"Drug-induced causes"	"D"	69	845150	8.2	8.4	0.0%
+	"Delaware"	"10"	"2006"	"2006"	"Drug-induced causes"	"D"	92	859268	10.7	10.9	0.0%
+	"Delaware"	"10"	"2007"	"2007"	"Drug-induced causes"	"D"	111	871749	12.7	13.0	0.0%
+	"Delaware"	"10"	"2008"	"2008"	"Drug-induced causes"	"D"	139	883874	15.7	15.8	0.0%
+	"Delaware"	"10"	"2009"	"2009"	"Drug-induced causes"	"D"	158	891730	17.7	17.7	0.0%
+	"Delaware"	"10"	"2010"	"2010"	"Drug-induced causes"	"D"	163	897934	18.2	18.6	0.0%
+	"Delaware"	"10"	"2011"	"2011"	"Drug-induced causes"	"D"	166	907135	18.3	18.2	0.0%
+	"Delaware"	"10"	"2012"	"2012"	"Drug-induced causes"	"D"	149	917092	16.2	16.1	0.0%
+	"Delaware"	"10"	"2013"	"2013"	"Drug-induced causes"	"D"	169	925749	18.3	19.0	0.0%
+	"Delaware"	"10"	"2014"	"2014"	"Drug-induced causes"	"D"	193	935614	20.6	21.3	0.0%
+	"Delaware"	"10"	"2015"	"2015"	"Drug-induced causes"	"D"	210	945934	22.2	23.2	0.0%
+	"Delaware"	"10"	"2016"	"2016"	"Drug-induced causes"	"D"	296	952065	31.1	32.1	0.0%
+	"District of Columbia"	"11"	"1999"	"1999"	"Drug-induced causes"	"D"	51	570213	8.9	8.9	0.0%
+	"District of Columbia"	"11"	"2000"	"2000"	"Drug-induced causes"	"D"	76	572059	13.3	13.4	0.0%
+	"District of Columbia"	"11"	"2001"	"2001"	"Drug-induced causes"	"D"	100	574504	17.4	17.4	0.0%
+	"District of Columbia"	"11"	"2002"	"2002"	"Drug-induced causes"	"D"	64	573158	11.2	11.4	0.0%
+	"District of Columbia"	"11"	"2003"	"2003"	"Drug-induced causes"	"D"	111	568502	19.5	19.5	0.0%
+	"District of Columbia"	"11"	"2004"	"2004"	"Drug-induced causes"	"D"	91	567754	16.0	16.2	0.0%
+	"District of Columbia"	"11"	"2005"	"2005"	"Drug-induced causes"	"D"	81	567136	14.3	14.3	0.0%
+	"District of Columbia"	"11"	"2006"	"2006"	"Drug-induced causes"	"D"	117	570681	20.5	20.7	0.0%
+	"District of Columbia"	"11"	"2007"	"2007"	"Drug-induced causes"	"D"	69	574404	12.0	12.1	0.0%
+	"District of Columbia"	"11"	"2008"	"2008"	"Drug-induced causes"	"D"	68	580236	11.7	11.6	0.0%
+	"District of Columbia"	"11"	"2009"	"2009"	"Drug-induced causes"	"D"	29	592228	4.9	4.6	0.0%
+	"District of Columbia"	"11"	"2010"	"2010"	"Drug-induced causes"	"D"	84	601723	14.0	14.0	0.0%
+	"District of Columbia"	"11"	"2011"	"2011"	"Drug-induced causes"	"D"	97	617996	15.7	15.1	0.0%
+	"District of Columbia"	"11"	"2012"	"2012"	"Drug-induced causes"	"D"	79	632323	12.5	12.9	0.0%
+	"District of Columbia"	"11"	"2013"	"2013"	"Drug-induced causes"	"D"	105	646449	16.2	15.4	0.0%
+	"District of Columbia"	"11"	"2014"	"2014"	"Drug-induced causes"	"D"	100	658893	15.2	14.9	0.0%
+	"District of Columbia"	"11"	"2015"	"2015"	"Drug-induced causes"	"D"	132	672228	19.6	19.7	0.0%
+	"District of Columbia"	"11"	"2016"	"2016"	"Drug-induced causes"	"D"	278	681170	40.8	40.1	0.0%
+	"Florida"	"12"	"1999"	"1999"	"Drug-induced causes"	"D"	1085	15759421	6.9	6.9	0.2%
+	"Florida"	"12"	"2000"	"2000"	"Drug-induced causes"	"D"	1265	15982378	7.9	8.1	0.2%
+	"Florida"	"12"	"2001"	"2001"	"Drug-induced causes"	"D"	1893	16356966	11.6	11.8	0.3%
+	"Florida"	"12"	"2002"	"2002"	"Drug-induced causes"	"D"	2082	16689370	12.5	12.7	0.3%
+	"Florida"	"12"	"2003"	"2003"	"Drug-induced causes"	"D"	2237	17004085	13.2	13.4	0.3%
+	"Florida"	"12"	"2004"	"2004"	"Drug-induced causes"	"D"	2516	17415318	14.4	14.7	0.4%
+	"Florida"	"12"	"2005"	"2005"	"Drug-induced causes"	"D"	2637	17842038	14.8	15.0	0.4%
+	"Florida"	"12"	"2006"	"2006"	"Drug-induced causes"	"D"	2892	18166990	15.9	16.1	0.4%
+	"Florida"	"12"	"2007"	"2007"	"Drug-induced causes"	"D"	3019	18367842	16.4	16.6	0.4%
+	"Florida"	"12"	"2008"	"2008"	"Drug-induced causes"	"D"	3164	18527305	17.1	17.2	0.5%
+	"Florida"	"12"	"2009"	"2009"	"Drug-induced causes"	"D"	3325	18652644	17.8	17.8	0.5%
+	"Florida"	"12"	"2010"	"2010"	"Drug-induced causes"	"D"	3276	18801310	17.4	17.4	0.5%
+	"Florida"	"12"	"2011"	"2011"	"Drug-induced causes"	"D"	3147	19057542	16.5	16.5	0.5%
+	"Florida"	"12"	"2012"	"2012"	"Drug-induced causes"	"D"	2859	19317568	14.8	14.5	0.4%
+	"Florida"	"12"	"2013"	"2013"	"Drug-induced causes"	"D"	2672	19552860	13.7	13.5	0.4%
+	"Florida"	"12"	"2014"	"2014"	"Drug-induced causes"	"D"	2826	19893297	14.2	14.1	0.4%
+	"Florida"	"12"	"2015"	"2015"	"Drug-induced causes"	"D"	3428	20271272	16.9	17.1	0.5%
+	"Florida"	"12"	"2016"	"2016"	"Drug-induced causes"	"D"	4943	20612439	24.0	24.7	0.7%
+	"Georgia"	"13"	"1999"	"1999"	"Drug-induced causes"	"D"	329	8045965	4.1	4.1	0.0%
+	"Georgia"	"13"	"2000"	"2000"	"Drug-induced causes"	"D"	441	8186453	5.4	5.4	0.1%
+	"Georgia"	"13"	"2001"	"2001"	"Drug-induced causes"	"D"	577	8377038	6.9	6.9	0.1%
+	"Georgia"	"13"	"2002"	"2002"	"Drug-induced causes"	"D"	624	8508256	7.3	7.3	0.1%
+	"Georgia"	"13"	"2003"	"2003"	"Drug-induced causes"	"D"	666	8622793	7.7	7.6	0.1%
+	"Georgia"	"13"	"2004"	"2004"	"Drug-induced causes"	"D"	730	8769252	8.3	8.3	0.1%
+	"Georgia"	"13"	"2005"	"2005"	"Drug-induced causes"	"D"	814	8925922	9.1	9.0	0.1%
+	"Georgia"	"13"	"2006"	"2006"	"Drug-induced causes"	"D"	922	9155813	10.1	10.0	0.1%
+	"Georgia"	"13"	"2007"	"2007"	"Drug-induced causes"	"D"	994	9349988	10.6	10.5	0.1%
+	"Georgia"	"13"	"2008"	"2008"	"Drug-induced causes"	"D"	1013	9504843	10.7	10.5	0.1%
+	"Georgia"	"13"	"2009"	"2009"	"Drug-induced causes"	"D"	1066	9620846	11.1	10.9	0.2%
+	"Georgia"	"13"	"2010"	"2010"	"Drug-induced causes"	"D"	1127	9687653	11.6	11.4	0.2%
+	"Georgia"	"13"	"2011"	"2011"	"Drug-induced causes"	"D"	1115	9815210	11.4	11.2	0.2%
+	"Georgia"	"13"	"2012"	"2012"	"Drug-induced causes"	"D"	1128	9919945	11.4	11.3	0.2%
+	"Georgia"	"13"	"2013"	"2013"	"Drug-induced causes"	"D"	1161	9992167	11.6	11.5	0.2%
+	"Georgia"	"13"	"2014"	"2014"	"Drug-induced causes"	"D"	1269	10097343	12.6	12.5	0.2%
+	"Georgia"	"13"	"2015"	"2015"	"Drug-induced causes"	"D"	1377	10214860	13.5	13.4	0.2%
+	"Georgia"	"13"	"2016"	"2016"	"Drug-induced causes"	"D"	1468	10310371	14.2	14.0	0.2%
+	"Hawaii"	"15"	"1999"	"1999"	"Drug-induced causes"	"D"	89	1210300	7.4	7.3	0.0%
+	"Hawaii"	"15"	"2000"	"2000"	"Drug-induced causes"	"D"	67	1211537	5.5	5.5	0.0%
+	"Hawaii"	"15"	"2001"	"2001"	"Drug-induced causes"	"D"	82	1225948	6.7	6.6	0.0%
+	"Hawaii"	"15"	"2002"	"2002"	"Drug-induced causes"	"D"	85	1239613	6.9	6.8	0.0%
+	"Hawaii"	"15"	"2003"	"2003"	"Drug-induced causes"	"D"	102	1251154	8.2	7.9	0.0%
+	"Hawaii"	"15"	"2004"	"2004"	"Drug-induced causes"	"D"	129	1273569	10.1	10.0	0.0%
+	"Hawaii"	"15"	"2005"	"2005"	"Drug-induced causes"	"D"	144	1292729	11.1	10.8	0.0%
+	"Hawaii"	"15"	"2006"	"2006"	"Drug-induced causes"	"D"	111	1309731	8.5	8.4	0.0%
+	"Hawaii"	"15"	"2007"	"2007"	"Drug-induced causes"	"D"	157	1315675	11.9	11.5	0.0%
+	"Hawaii"	"15"	"2008"	"2008"	"Drug-induced causes"	"D"	131	1332213	9.8	9.5	0.0%
+	"Hawaii"	"15"	"2009"	"2009"	"Drug-induced causes"	"D"	147	1346717	10.9	10.4	0.0%
+	"Hawaii"	"15"	"2010"	"2010"	"Drug-induced causes"	"D"	160	1360301	11.8	11.4	0.0%
+	"Hawaii"	"15"	"2011"	"2011"	"Drug-induced causes"	"D"	192	1374810	14.0	13.1	0.0%
+	"Hawaii"	"15"	"2012"	"2012"	"Drug-induced causes"	"D"	168	1392313	12.1	11.8	0.0%
+	"Hawaii"	"15"	"2013"	"2013"	"Drug-induced causes"	"D"	167	1404054	11.9	11.7	0.0%
+	"Hawaii"	"15"	"2014"	"2014"	"Drug-induced causes"	"D"	178	1419561	12.5	12.3	0.0%
+	"Hawaii"	"15"	"2015"	"2015"	"Drug-induced causes"	"D"	191	1431603	13.3	12.8	0.0%
+	"Hawaii"	"15"	"2016"	"2016"	"Drug-induced causes"	"D"	227	1428557	15.9	15.1	0.0%
+	"Idaho"	"16"	"1999"	"1999"	"Drug-induced causes"	"D"	67	1275674	5.3	5.5	0.0%
+	"Idaho"	"16"	"2000"	"2000"	"Drug-induced causes"	"D"	69	1293953	5.3	5.5	0.0%
+	"Idaho"	"16"	"2001"	"2001"	"Drug-induced causes"	"D"	104	1319962	7.9	8.3	0.0%
+	"Idaho"	"16"	"2002"	"2002"	"Drug-induced causes"	"D"	124	1340372	9.3	9.7	0.0%
+	"Idaho"	"16"	"2003"	"2003"	"Drug-induced causes"	"D"	108	1363380	7.9	8.4	0.0%
+	"Idaho"	"16"	"2004"	"2004"	"Drug-induced causes"	"D"	108	1391802	7.8	8.1	0.0%
+	"Idaho"	"16"	"2005"	"2005"	"Drug-induced causes"	"D"	116	1428241	8.1	8.6	0.0%
+	"Idaho"	"16"	"2006"	"2006"	"Drug-induced causes"	"D"	138	1468669	9.4	9.9	0.0%
+	"Idaho"	"16"	"2007"	"2007"	"Drug-induced causes"	"D"	138	1505105	9.2	9.4	0.0%
+	"Idaho"	"16"	"2008"	"2008"	"Drug-induced causes"	"D"	154	1534320	10.0	10.3	0.0%
+	"Idaho"	"16"	"2009"	"2009"	"Drug-induced causes"	"D"	185	1554439	11.9	12.5	0.0%
+	"Idaho"	"16"	"2010"	"2010"	"Drug-induced causes"	"D"	186	1567582	11.9	12.3	0.0%
+	"Idaho"	"16"	"2011"	"2011"	"Drug-induced causes"	"D"	206	1584985	13.0	13.6	0.0%
+	"Idaho"	"16"	"2012"	"2012"	"Drug-induced causes"	"D"	194	1595728	12.2	12.7	0.0%
+	"Idaho"	"16"	"2013"	"2013"	"Drug-induced causes"	"D"	228	1612136	14.1	14.8	0.0%
+	"Idaho"	"16"	"2014"	"2014"	"Drug-induced causes"	"D"	226	1634464	13.8	14.6	0.0%
+	"Idaho"	"16"	"2015"	"2015"	"Drug-induced causes"	"D"	233	1654930	14.1	15.1	0.0%
+	"Idaho"	"16"	"2016"	"2016"	"Drug-induced causes"	"D"	269	1683140	16.0	16.7	0.0%
+	"Illinois"	"17"	"1999"	"1999"	"Drug-induced causes"	"D"	1026	12359020	8.3	8.3	0.1%
+	"Illinois"	"17"	"2000"	"2000"	"Drug-induced causes"	"D"	1061	12419293	8.5	8.6	0.2%
+	"Illinois"	"17"	"2001"	"2001"	"Drug-induced causes"	"D"	1078	12488445	8.6	8.6	0.2%
+	"Illinois"	"17"	"2002"	"2002"	"Drug-induced causes"	"D"	1157	12525556	9.2	9.3	0.2%
+	"Illinois"	"17"	"2003"	"2003"	"Drug-induced causes"	"D"	1007	12556006	8.0	8.0	0.1%
+	"Illinois"	"17"	"2004"	"2004"	"Drug-induced causes"	"D"	1207	12589773	9.6	9.7	0.2%
+	"Illinois"	"17"	"2005"	"2005"	"Drug-induced causes"	"D"	1263	12609903	10.0	10.0	0.2%
+	"Illinois"	"17"	"2006"	"2006"	"Drug-induced causes"	"D"	1557	12643955	12.3	12.3	0.2%
+	"Illinois"	"17"	"2007"	"2007"	"Drug-induced causes"	"D"	1394	12695866	11.0	10.9	0.2%
+	"Illinois"	"17"	"2008"	"2008"	"Drug-induced causes"	"D"	1505	12747038	11.8	11.8	0.2%
+	"Illinois"	"17"	"2009"	"2009"	"Drug-induced causes"	"D"	1541	12796778	12.0	12.0	0.2%
+	"Illinois"	"17"	"2010"	"2010"	"Drug-induced causes"	"D"	1443	12830632	11.2	11.2	0.2%
+	"Illinois"	"17"	"2011"	"2011"	"Drug-induced causes"	"D"	1549	12869257	12.0	12.0	0.2%
+	"Illinois"	"17"	"2012"	"2012"	"Drug-induced causes"	"D"	1791	12875255	13.9	13.7	0.3%
+	"Illinois"	"17"	"2013"	"2013"	"Drug-induced causes"	"D"	1754	12882135	13.6	13.4	0.3%
+	"Illinois"	"17"	"2014"	"2014"	"Drug-induced causes"	"D"	1865	12880580	14.5	14.3	0.3%
+	"Illinois"	"17"	"2015"	"2015"	"Drug-induced causes"	"D"	1975	12859995	15.4	15.2	0.3%
+	"Illinois"	"17"	"2016"	"2016"	"Drug-induced causes"	"D"	2570	12801539	20.1	20.1	0.4%
+	"Indiana"	"18"	"1999"	"1999"	"Drug-induced causes"	"D"	222	6044969	3.7	3.7	0.0%
+	"Indiana"	"18"	"2000"	"2000"	"Drug-induced causes"	"D"	247	6080485	4.1	4.1	0.0%
+	"Indiana"	"18"	"2001"	"2001"	"Drug-induced causes"	"D"	314	6127760	5.1	5.2	0.0%
+	"Indiana"	"18"	"2002"	"2002"	"Drug-induced causes"	"D"	330	6155967	5.4	5.4	0.0%
+	"Indiana"	"18"	"2003"	"2003"	"Drug-induced causes"	"D"	481	6196638	7.8	7.9	0.1%
+	"Indiana"	"18"	"2004"	"2004"	"Drug-induced causes"	"D"	594	6233007	9.5	9.7	0.1%
+	"Indiana"	"18"	"2005"	"2005"	"Drug-induced causes"	"D"	659	6278616	10.5	10.6	0.1%
+	"Indiana"	"18"	"2006"	"2006"	"Drug-induced causes"	"D"	782	6332669	12.3	12.5	0.1%
+	"Indiana"	"18"	"2007"	"2007"	"Drug-induced causes"	"D"	829	6379599	13.0	13.1	0.1%
+	"Indiana"	"18"	"2008"	"2008"	"Drug-induced causes"	"D"	876	6424806	13.6	13.9	0.1%
+	"Indiana"	"18"	"2009"	"2009"	"Drug-induced causes"	"D"	952	6459325	14.7	14.9	0.1%
+	"Indiana"	"18"	"2010"	"2010"	"Drug-induced causes"	"D"	981	6483802	15.1	15.2	0.1%
+	"Indiana"	"18"	"2011"	"2011"	"Drug-induced causes"	"D"	1064	6516922	16.3	16.7	0.2%
+	"Indiana"	"18"	"2012"	"2012"	"Drug-induced causes"	"D"	1098	6537334	16.8	17.3	0.2%
+	"Indiana"	"18"	"2013"	"2013"	"Drug-induced causes"	"D"	1183	6570902	18.0	18.4	0.2%
+	"Indiana"	"18"	"2014"	"2014"	"Drug-induced causes"	"D"	1273	6596855	19.3	19.8	0.2%
+	"Indiana"	"18"	"2015"	"2015"	"Drug-induced causes"	"D"	1364	6619680	20.6	21.3	0.2%
+	"Indiana"	"18"	"2016"	"2016"	"Drug-induced causes"	"D"	1653	6633053	24.9	25.9	0.2%
+	"Iowa"	"19"	"1999"	"1999"	"Drug-induced causes"	"D"	63	2917634	2.2	2.2	0.0%
+	"Iowa"	"19"	"2000"	"2000"	"Drug-induced causes"	"D"	86	2926324	2.9	3.0	0.0%
+	"Iowa"	"19"	"2001"	"2001"	"Drug-induced causes"	"D"	101	2931997	3.4	3.4	0.0%
+	"Iowa"	"19"	"2002"	"2002"	"Drug-induced causes"	"D"	113	2934234	3.9	3.8	0.0%
+	"Iowa"	"19"	"2003"	"2003"	"Drug-induced causes"	"D"	115	2941999	3.9	4.1	0.0%
+	"Iowa"	"19"	"2004"	"2004"	"Drug-induced causes"	"D"	142	2953635	4.8	4.9	0.0%
+	"Iowa"	"19"	"2005"	"2005"	"Drug-induced causes"	"D"	166	2964454	5.6	5.7	0.0%
+	"Iowa"	"19"	"2006"	"2006"	"Drug-induced causes"	"D"	208	2982644	7.0	7.2	0.0%
+	"Iowa"	"19"	"2007"	"2007"	"Drug-induced causes"	"D"	233	2999212	7.8	7.9	0.0%
+	"Iowa"	"19"	"2008"	"2008"	"Drug-induced causes"	"D"	251	3016734	8.3	8.5	0.0%
+	"Iowa"	"19"	"2009"	"2009"	"Drug-induced causes"	"D"	239	3032870	7.9	8.2	0.0%
+	"Iowa"	"19"	"2010"	"2010"	"Drug-induced causes"	"D"	303	3046355	9.9	10.1	0.0%
+	"Iowa"	"19"	"2011"	"2011"	"Drug-induced causes"	"D"	290	3062309	9.5	9.8	0.0%
+	"Iowa"	"19"	"2012"	"2012"	"Drug-induced causes"	"D"	292	3074186	9.5	9.8	0.0%
+	"Iowa"	"19"	"2013"	"2013"	"Drug-induced causes"	"D"	314	3090416	10.2	10.6	0.0%
+	"Iowa"	"19"	"2014"	"2014"	"Drug-induced causes"	"D"	303	3107126	9.8	10.1	0.0%
+	"Iowa"	"19"	"2015"	"2015"	"Drug-induced causes"	"D"	369	3123899	11.8	12.2	0.1%
+	"Iowa"	"19"	"2016"	"2016"	"Drug-induced causes"	"D"	375	3134693	12.0	12.6	0.1%
+	"Kansas"	"20"	"1999"	"1999"	"Drug-induced causes"	"D"	96	2678338	3.6	3.7	0.0%
+	"Kansas"	"20"	"2000"	"2000"	"Drug-induced causes"	"D"	113	2688418	4.2	4.3	0.0%
+	"Kansas"	"20"	"2001"	"2001"	"Drug-induced causes"	"D"	150	2702162	5.6	5.7	0.0%
+	"Kansas"	"20"	"2002"	"2002"	"Drug-induced causes"	"D"	187	2713535	6.9	7.1	0.0%
+	"Kansas"	"20"	"2003"	"2003"	"Drug-induced causes"	"D"	205	2723004	7.5	7.7	0.0%
+	"Kansas"	"20"	"2004"	"2004"	"Drug-induced causes"	"D"	251	2734373	9.2	9.5	0.0%
+	"Kansas"	"20"	"2005"	"2005"	"Drug-induced causes"	"D"	263	2745299	9.6	9.9	0.0%
+	"Kansas"	"20"	"2006"	"2006"	"Drug-induced causes"	"D"	281	2762931	10.2	10.4	0.0%
+	"Kansas"	"20"	"2007"	"2007"	"Drug-induced causes"	"D"	299	2783785	10.7	11.0	0.0%
+	"Kansas"	"20"	"2008"	"2008"	"Drug-induced causes"	"D"	246	2808076	8.8	9.0	0.0%
+	"Kansas"	"20"	"2009"	"2009"	"Drug-induced causes"	"D"	345	2832704	12.2	12.5	0.0%
+	"Kansas"	"20"	"2010"	"2010"	"Drug-induced causes"	"D"	310	2853118	10.9	11.0	0.0%
+	"Kansas"	"20"	"2011"	"2011"	"Drug-induced causes"	"D"	330	2871238	11.5	11.8	0.0%
+	"Kansas"	"20"	"2012"	"2012"	"Drug-induced causes"	"D"	357	2885905	12.4	12.8	0.1%
+	"Kansas"	"20"	"2013"	"2013"	"Drug-induced causes"	"D"	382	2893957	13.2	13.7	0.1%
+	"Kansas"	"20"	"2014"	"2014"	"Drug-induced causes"	"D"	391	2904021	13.5	13.8	0.1%
+	"Kansas"	"20"	"2015"	"2015"	"Drug-induced causes"	"D"	384	2911641	13.2	13.7	0.1%
+	"Kansas"	"20"	"2016"	"2016"	"Drug-induced causes"	"D"	375	2907289	12.9	13.2	0.1%
+	"Kentucky"	"21"	"1999"	"1999"	"Drug-induced causes"	"D"	229	4018053	5.7	5.7	0.0%
+	"Kentucky"	"21"	"2000"	"2000"	"Drug-induced causes"	"D"	264	4041769	6.5	6.5	0.0%
+	"Kentucky"	"21"	"2001"	"2001"	"Drug-induced causes"	"D"	366	4068132	9.0	9.0	0.1%
+	"Kentucky"	"21"	"2002"	"2002"	"Drug-induced causes"	"D"	468	4089875	11.4	11.5	0.1%
+	"Kentucky"	"21"	"2003"	"2003"	"Drug-induced causes"	"D"	599	4117170	14.5	14.5	0.1%
+	"Kentucky"	"21"	"2004"	"2004"	"Drug-induced causes"	"D"	583	4146101	14.1	14.2	0.1%
+	"Kentucky"	"21"	"2005"	"2005"	"Drug-induced causes"	"D"	687	4182742	16.4	16.5	0.1%
+	"Kentucky"	"21"	"2006"	"2006"	"Drug-induced causes"	"D"	772	4219239	18.3	18.4	0.1%
+	"Kentucky"	"21"	"2007"	"2007"	"Drug-induced causes"	"D"	734	4256672	17.2	17.3	0.1%
+	"Kentucky"	"21"	"2008"	"2008"	"Drug-induced causes"	"D"	805	4289878	18.8	18.9	0.1%
+	"Kentucky"	"21"	"2009"	"2009"	"Drug-induced causes"	"D"	835	4317074	19.3	19.5	0.1%
+	"Kentucky"	"21"	"2010"	"2010"	"Drug-induced causes"	"D"	1089	4339367	25.1	25.4	0.2%
+	"Kentucky"	"21"	"2011"	"2011"	"Drug-induced causes"	"D"	1146	4369356	26.2	26.9	0.2%
+	"Kentucky"	"21"	"2012"	"2012"	"Drug-induced causes"	"D"	1166	4380415	26.6	27.0	0.2%
+	"Kentucky"	"21"	"2013"	"2013"	"Drug-induced causes"	"D"	1092	4395295	24.8	25.2	0.2%
+	"Kentucky"	"21"	"2014"	"2014"	"Drug-induced causes"	"D"	1152	4413457	26.1	26.5	0.2%
+	"Kentucky"	"21"	"2015"	"2015"	"Drug-induced causes"	"D"	1361	4425092	30.8	31.8	0.2%
+	"Kentucky"	"21"	"2016"	"2016"	"Drug-induced causes"	"D"	1490	4436974	33.6	35.1	0.2%
+	"Louisiana"	"22"	"1999"	"1999"	"Drug-induced causes"	"D"	221	4460811	5.0	5.1	0.0%
+	"Louisiana"	"22"	"2000"	"2000"	"Drug-induced causes"	"D"	265	4468976	5.9	6.0	0.0%
+	"Louisiana"	"22"	"2001"	"2001"	"Drug-induced causes"	"D"	292	4477875	6.5	6.6	0.0%
+	"Louisiana"	"22"	"2002"	"2002"	"Drug-induced causes"	"D"	410	4497267	9.1	9.3	0.1%
+	"Louisiana"	"22"	"2003"	"2003"	"Drug-induced causes"	"D"	591	4521042	13.1	13.4	0.1%
+	"Louisiana"	"22"	"2004"	"2004"	"Drug-induced causes"	"D"	606	4552238	13.3	13.5	0.1%
+	"Louisiana"	"22"	"2005"	"2005"	"Drug-induced causes"	"D"	744	4576628	16.3	16.5	0.1%
+	"Louisiana"	"22"	"2006"	"2006"	"Drug-induced causes"	"D"	771	4302665	17.9	18.1	0.1%
+	"Louisiana"	"22"	"2007"	"2007"	"Drug-induced causes"	"D"	873	4375581	20.0	20.3	0.1%
+	"Louisiana"	"22"	"2008"	"2008"	"Drug-induced causes"	"D"	716	4435586	16.1	16.4	0.1%
+	"Louisiana"	"22"	"2009"	"2009"	"Drug-induced causes"	"D"	666	4491648	14.8	14.9	0.1%
+	"Louisiana"	"22"	"2010"	"2010"	"Drug-induced causes"	"D"	666	4533372	14.7	14.8	0.1%
+	"Louisiana"	"22"	"2011"	"2011"	"Drug-induced causes"	"D"	684	4574836	15.0	15.3	0.1%
+	"Louisiana"	"22"	"2012"	"2012"	"Drug-induced causes"	"D"	637	4601893	13.8	13.8	0.1%
+	"Louisiana"	"22"	"2013"	"2013"	"Drug-induced causes"	"D"	866	4625470	18.7	18.9	0.1%
+	"Louisiana"	"22"	"2014"	"2014"	"Drug-induced causes"	"D"	885	4649676	19.0	19.2	0.1%
+	"Louisiana"	"22"	"2015"	"2015"	"Drug-induced causes"	"D"	961	4670724	20.6	21.2	0.1%
+	"Louisiana"	"22"	"2016"	"2016"	"Drug-induced causes"	"D"	1116	4681666	23.8	24.2	0.2%
+	"Maine"	"23"	"1999"	"1999"	"Drug-induced causes"	"D"	82	1266808	6.5	6.4	0.0%
+	"Maine"	"23"	"2000"	"2000"	"Drug-induced causes"	"D"	67	1274923	5.3	5.2	0.0%
+	"Maine"	"23"	"2001"	"2001"	"Drug-induced causes"	"D"	96	1285692	7.5	7.4	0.0%
+	"Maine"	"23"	"2002"	"2002"	"Drug-induced causes"	"D"	156	1295960	12.0	12.2	0.0%
+	"Maine"	"23"	"2003"	"2003"	"Drug-induced causes"	"D"	146	1306513	11.2	11.2	0.0%
+	"Maine"	"23"	"2004"	"2004"	"Drug-induced causes"	"D"	161	1313688	12.3	12.4	0.0%
+	"Maine"	"23"	"2005"	"2005"	"Drug-induced causes"	"D"	178	1318787	13.5	13.5	0.0%
+	"Maine"	"23"	"2006"	"2006"	"Drug-induced causes"	"D"	166	1323619	12.5	12.5	0.0%
+	"Maine"	"23"	"2007"	"2007"	"Drug-induced causes"	"D"	168	1327040	12.7	13.0	0.0%
+	"Maine"	"23"	"2008"	"2008"	"Drug-induced causes"	"D"	170	1330509	12.8	12.8	0.0%
+	"Maine"	"23"	"2009"	"2009"	"Drug-induced causes"	"D"	185	1329590	13.9	13.7	0.0%
+	"Maine"	"23"	"2010"	"2010"	"Drug-induced causes"	"D"	143	1328361	10.8	10.9	0.0%
+	"Maine"	"23"	"2011"	"2011"	"Drug-induced causes"	"D"	173	1328188	13.0	13.0	0.0%
+	"Maine"	"23"	"2012"	"2012"	"Drug-induced causes"	"D"	170	1329192	12.8	13.0	0.0%
+	"Maine"	"23"	"2013"	"2013"	"Drug-induced causes"	"D"	186	1328302	14.0	14.1	0.0%
+	"Maine"	"23"	"2014"	"2014"	"Drug-induced causes"	"D"	225	1330089	16.9	17.4	0.0%
+	"Maine"	"23"	"2015"	"2015"	"Drug-induced causes"	"D"	281	1329328	21.1	22.1	0.0%
+	"Maine"	"23"	"2016"	"2016"	"Drug-induced causes"	"D"	367	1331479	27.6	29.8	0.1%
+	"Maryland"	"24"	"1999"	"1999"	"Drug-induced causes"	"D"	662	5254509	12.6	12.1	0.1%
+	"Maryland"	"24"	"2000"	"2000"	"Drug-induced causes"	"D"	662	5296486	12.5	12.0	0.1%
+	"Maryland"	"24"	"2001"	"2001"	"Drug-induced causes"	"D"	673	5374691	12.5	12.1	0.1%
+	"Maryland"	"24"	"2002"	"2002"	"Drug-induced causes"	"D"	756	5440389	13.9	13.5	0.1%
+	"Maryland"	"24"	"2003"	"2003"	"Drug-induced causes"	"D"	812	5496269	14.8	14.4	0.1%
+	"Maryland"	"24"	"2004"	"2004"	"Drug-induced causes"	"D"	699	5546935	12.6	12.3	0.1%
+	"Maryland"	"24"	"2005"	"2005"	"Drug-induced causes"	"D"	680	5592379	12.2	11.9	0.1%
+	"Maryland"	"24"	"2006"	"2006"	"Drug-induced causes"	"D"	799	5627367	14.2	13.8	0.1%
+	"Maryland"	"24"	"2007"	"2007"	"Drug-induced causes"	"D"	808	5653408	14.3	13.9	0.1%
+	"Maryland"	"24"	"2008"	"2008"	"Drug-induced causes"	"D"	727	5684965	12.8	12.3	0.1%
+	"Maryland"	"24"	"2009"	"2009"	"Drug-induced causes"	"D"	774	5730388	13.5	13.0	0.1%
+	"Maryland"	"24"	"2010"	"2010"	"Drug-induced causes"	"D"	687	5773552	11.9	11.6	0.1%
+	"Maryland"	"24"	"2011"	"2011"	"Drug-induced causes"	"D"	739	5828289	12.7	12.3	0.1%
+	"Maryland"	"24"	"2012"	"2012"	"Drug-induced causes"	"D"	865	5884563	14.7	14.2	0.1%
+	"Maryland"	"24"	"2013"	"2013"	"Drug-induced causes"	"D"	925	5928814	15.6	15.1	0.1%
+	"Maryland"	"24"	"2014"	"2014"	"Drug-induced causes"	"D"	1101	5976407	18.4	17.9	0.2%
+	"Maryland"	"24"	"2015"	"2015"	"Drug-induced causes"	"D"	1310	6006401	21.8	21.2	0.2%
+	"Maryland"	"24"	"2016"	"2016"	"Drug-induced causes"	"D"	2099	6016447	34.9	34.1	0.3%
+	"Massachusetts"	"25"	"1999"	"1999"	"Drug-induced causes"	"D"	526	6317345	8.3	8.1	0.1%
+	"Massachusetts"	"25"	"2000"	"2000"	"Drug-induced causes"	"D"	489	6349097	7.7	7.5	0.1%
+	"Massachusetts"	"25"	"2001"	"2001"	"Drug-induced causes"	"D"	730	6397634	11.4	11.1	0.1%
+	"Massachusetts"	"25"	"2002"	"2002"	"Drug-induced causes"	"D"	725	6417206	11.3	11.0	0.1%
+	"Massachusetts"	"25"	"2003"	"2003"	"Drug-induced causes"	"D"	848	6422565	13.2	13.0	0.1%
+	"Massachusetts"	"25"	"2004"	"2004"	"Drug-induced causes"	"D"	692	6412281	10.8	10.6	0.1%
+	"Massachusetts"	"25"	"2005"	"2005"	"Drug-induced causes"	"D"	814	6403290	12.7	12.5	0.1%
+	"Massachusetts"	"25"	"2006"	"2006"	"Drug-induced causes"	"D"	993	6410084	15.5	15.0	0.1%
+	"Massachusetts"	"25"	"2007"	"2007"	"Drug-induced causes"	"D"	957	6431559	14.9	14.5	0.1%
+	"Massachusetts"	"25"	"2008"	"2008"	"Drug-induced causes"	"D"	830	6468967	12.8	12.5	0.1%
+	"Massachusetts"	"25"	"2009"	"2009"	"Drug-induced causes"	"D"	848	6517613	13.0	12.7	0.1%
+	"Massachusetts"	"25"	"2010"	"2010"	"Drug-induced causes"	"D"	781	6547629	11.9	11.6	0.1%
+	"Massachusetts"	"25"	"2011"	"2011"	"Drug-induced causes"	"D"	895	6587536	13.6	13.3	0.1%
+	"Massachusetts"	"25"	"2012"	"2012"	"Drug-induced causes"	"D"	896	6646144	13.5	13.2	0.1%
+	"Massachusetts"	"25"	"2013"	"2013"	"Drug-induced causes"	"D"	1123	6692824	16.8	16.6	0.2%
+	"Massachusetts"	"25"	"2014"	"2014"	"Drug-induced causes"	"D"	1327	6745408	19.7	19.5	0.2%
+	"Massachusetts"	"25"	"2015"	"2015"	"Drug-induced causes"	"D"	1773	6794422	26.1	26.4	0.3%
+	"Massachusetts"	"25"	"2016"	"2016"	"Drug-induced causes"	"D"	2286	6811779	33.6	33.8	0.3%
+	"Michigan"	"26"	"1999"	"1999"	"Drug-induced causes"	"D"	611	9897116	6.2	6.2	0.1%
+	"Michigan"	"26"	"2000"	"2000"	"Drug-induced causes"	"D"	730	9938444	7.3	7.3	0.1%
+	"Michigan"	"26"	"2001"	"2001"	"Drug-induced causes"	"D"	762	9991120	7.6	7.6	0.1%
+	"Michigan"	"26"	"2002"	"2002"	"Drug-induced causes"	"D"	894	10015710	8.9	8.9	0.1%
+	"Michigan"	"26"	"2003"	"2003"	"Drug-induced causes"	"D"	896	10041152	8.9	8.9	0.1%
+	"Michigan"	"26"	"2004"	"2004"	"Drug-induced causes"	"D"	980	10055315	9.7	9.8	0.1%
+	"Michigan"	"26"	"2005"	"2005"	"Drug-induced causes"	"D"	1118	10051137	11.1	11.1	0.2%
+	"Michigan"	"26"	"2006"	"2006"	"Drug-induced causes"	"D"	1297	10036081	12.9	12.9	0.2%
+	"Michigan"	"26"	"2007"	"2007"	"Drug-induced causes"	"D"	1298	10001284	13.0	12.8	0.2%
+	"Michigan"	"26"	"2008"	"2008"	"Drug-induced causes"	"D"	1307	9946889	13.1	13.0	0.2%
+	"Michigan"	"26"	"2009"	"2009"	"Drug-induced causes"	"D"	1482	9901591	15.0	15.0	0.2%
+	"Michigan"	"26"	"2010"	"2010"	"Drug-induced causes"	"D"	1475	9883640	14.9	14.7	0.2%
+	"Michigan"	"26"	"2011"	"2011"	"Drug-induced causes"	"D"	1478	9876187	15.0	15.2	0.2%
+	"Michigan"	"26"	"2012"	"2012"	"Drug-induced causes"	"D"	1368	9883360	13.8	14.1	0.2%
+	"Michigan"	"26"	"2013"	"2013"	"Drug-induced causes"	"D"	1636	9895622	16.5	16.7	0.2%
+	"Michigan"	"26"	"2014"	"2014"	"Drug-induced causes"	"D"	1849	9909877	18.7	18.9	0.3%
+	"Michigan"	"26"	"2015"	"2015"	"Drug-induced causes"	"D"	2040	9922576	20.6	20.9	0.3%
+	"Michigan"	"26"	"2016"	"2016"	"Drug-induced causes"	"D"	2446	9928300	24.6	25.3	0.4%
+	"Minnesota"	"27"	"1999"	"1999"	"Drug-induced causes"	"D"	164	4873481	3.4	3.4	0.0%
+	"Minnesota"	"27"	"2000"	"2000"	"Drug-induced causes"	"D"	160	4919479	3.3	3.2	0.0%
+	"Minnesota"	"27"	"2001"	"2001"	"Drug-induced causes"	"D"	221	4982796	4.4	4.4	0.0%
+	"Minnesota"	"27"	"2002"	"2002"	"Drug-induced causes"	"D"	235	5018935	4.7	4.6	0.0%
+	"Minnesota"	"27"	"2003"	"2003"	"Drug-induced causes"	"D"	286	5053572	5.7	5.6	0.0%
+	"Minnesota"	"27"	"2004"	"2004"	"Drug-induced causes"	"D"	283	5087713	5.6	5.5	0.0%
+	"Minnesota"	"27"	"2005"	"2005"	"Drug-induced causes"	"D"	313	5119598	6.1	6.0	0.0%
+	"Minnesota"	"27"	"2006"	"2006"	"Drug-induced causes"	"D"	366	5163555	7.1	7.0	0.1%
+	"Minnesota"	"27"	"2007"	"2007"	"Drug-induced causes"	"D"	356	5207203	6.8	6.7	0.1%
+	"Minnesota"	"27"	"2008"	"2008"	"Drug-induced causes"	"D"	403	5247018	7.7	7.6	0.1%
+	"Minnesota"	"27"	"2009"	"2009"	"Drug-induced causes"	"D"	441	5281203	8.4	8.3	0.1%
+	"Minnesota"	"27"	"2010"	"2010"	"Drug-induced causes"	"D"	431	5303925	8.1	8.0	0.1%
+	"Minnesota"	"27"	"2011"	"2011"	"Drug-induced causes"	"D"	547	5344861	10.2	10.0	0.1%
+	"Minnesota"	"27"	"2012"	"2012"	"Drug-induced causes"	"D"	519	5379139	9.6	9.6	0.1%
+	"Minnesota"	"27"	"2013"	"2013"	"Drug-induced causes"	"D"	552	5420380	10.2	10.1	0.1%
+	"Minnesota"	"27"	"2014"	"2014"	"Drug-induced causes"	"D"	553	5457173	10.1	10.2	0.1%
+	"Minnesota"	"27"	"2015"	"2015"	"Drug-induced causes"	"D"	623	5489594	11.3	11.4	0.1%
+	"Minnesota"	"27"	"2016"	"2016"	"Drug-induced causes"	"D"	722	5519952	13.1	13.4	0.1%
+	"Mississippi"	"28"	"1999"	"1999"	"Drug-induced causes"	"D"	115	2828408	4.1	4.3	0.0%
+	"Mississippi"	"28"	"2000"	"2000"	"Drug-induced causes"	"D"	132	2844658	4.6	4.9	0.0%
+	"Mississippi"	"28"	"2001"	"2001"	"Drug-induced causes"	"D"	182	2852994	6.4	6.6	0.0%
+	"Mississippi"	"28"	"2002"	"2002"	"Drug-induced causes"	"D"	198	2858681	6.9	7.2	0.0%
+	"Mississippi"	"28"	"2003"	"2003"	"Drug-induced causes"	"D"	227	2868312	7.9	8.2	0.0%
+	"Mississippi"	"28"	"2004"	"2004"	"Drug-induced causes"	"D"	246	2889010	8.5	9.0	0.0%
+	"Mississippi"	"28"	"2005"	"2005"	"Drug-induced causes"	"D"	269	2905943	9.3	9.5	0.0%
+	"Mississippi"	"28"	"2006"	"2006"	"Drug-induced causes"	"D"	354	2904978	12.2	12.6	0.1%
+	"Mississippi"	"28"	"2007"	"2007"	"Drug-induced causes"	"D"	334	2928350	11.4	11.6	0.0%
+	"Mississippi"	"28"	"2008"	"2008"	"Drug-induced causes"	"D"	320	2947806	10.9	11.1	0.0%
+	"Mississippi"	"28"	"2009"	"2009"	"Drug-induced causes"	"D"	342	2958774	11.6	11.8	0.0%
+	"Mississippi"	"28"	"2010"	"2010"	"Drug-induced causes"	"D"	360	2967297	12.1	12.3	0.1%
+	"Mississippi"	"28"	"2011"	"2011"	"Drug-induced causes"	"D"	350	2978512	11.8	12.3	0.1%
+	"Mississippi"	"28"	"2012"	"2012"	"Drug-induced causes"	"D"	345	2984926	11.6	11.8	0.0%
+	"Mississippi"	"28"	"2013"	"2013"	"Drug-induced causes"	"D"	347	2991207	11.6	11.9	0.1%
+	"Mississippi"	"28"	"2014"	"2014"	"Drug-induced causes"	"D"	366	2994079	12.2	12.6	0.1%
+	"Mississippi"	"28"	"2015"	"2015"	"Drug-induced causes"	"D"	388	2992333	13.0	13.6	0.1%
+	"Mississippi"	"28"	"2016"	"2016"	"Drug-induced causes"	"D"	382	2988726	12.8	13.1	0.1%
+	"Missouri"	"29"	"1999"	"1999"	"Drug-induced causes"	"D"	318	5561948	5.7	5.8	0.0%
+	"Missouri"	"29"	"2000"	"2000"	"Drug-induced causes"	"D"	354	5595211	6.3	6.4	0.1%
+	"Missouri"	"29"	"2001"	"2001"	"Drug-induced causes"	"D"	407	5641142	7.2	7.3	0.1%
+	"Missouri"	"29"	"2002"	"2002"	"Drug-induced causes"	"D"	481	5674825	8.5	8.6	0.1%
+	"Missouri"	"29"	"2003"	"2003"	"Drug-induced causes"	"D"	575	5709403	10.1	10.2	0.1%
+	"Missouri"	"29"	"2004"	"2004"	"Drug-induced causes"	"D"	601	5747741	10.5	10.7	0.1%
+	"Missouri"	"29"	"2005"	"2005"	"Drug-induced causes"	"D"	672	5790300	11.6	11.8	0.1%
+	"Missouri"	"29"	"2006"	"2006"	"Drug-induced causes"	"D"	820	5842704	14.0	14.3	0.1%
+	"Missouri"	"29"	"2007"	"2007"	"Drug-induced causes"	"D"	801	5887612	13.6	13.7	0.1%
+	"Missouri"	"29"	"2008"	"2008"	"Drug-induced causes"	"D"	819	5923916	13.8	14.0	0.1%
+	"Missouri"	"29"	"2009"	"2009"	"Drug-induced causes"	"D"	943	5961088	15.8	16.0	0.1%
+	"Missouri"	"29"	"2010"	"2010"	"Drug-induced causes"	"D"	1062	5988927	17.7	18.1	0.2%
+	"Missouri"	"29"	"2011"	"2011"	"Drug-induced causes"	"D"	1027	6010688	17.1	17.5	0.1%
+	"Missouri"	"29"	"2012"	"2012"	"Drug-induced causes"	"D"	1007	6021988	16.7	17.2	0.1%
+	"Missouri"	"29"	"2013"	"2013"	"Drug-induced causes"	"D"	1103	6044171	18.2	18.7	0.2%
+	"Missouri"	"29"	"2014"	"2014"	"Drug-induced causes"	"D"	1142	6063589	18.8	19.4	0.2%
+	"Missouri"	"29"	"2015"	"2015"	"Drug-induced causes"	"D"	1155	6083672	19.0	19.4	0.2%
+	"Missouri"	"29"	"2016"	"2016"	"Drug-induced causes"	"D"	1495	6093000	24.5	25.6	0.2%
+	"Montana"	"30"	"1999"	"1999"	"Drug-induced causes"	"D"	45	897507	5.0	5.0	0.0%
+	"Montana"	"30"	"2000"	"2000"	"Drug-induced causes"	"D"	50	902195	5.5	5.5	0.0%
+	"Montana"	"30"	"2001"	"2001"	"Drug-induced causes"	"D"	64	906961	7.1	7.1	0.0%
+	"Montana"	"30"	"2002"	"2002"	"Drug-induced causes"	"D"	79	911667	8.7	8.8	0.0%
+	"Montana"	"30"	"2003"	"2003"	"Drug-induced causes"	"D"	103	919630	11.2	11.6	0.0%
+	"Montana"	"30"	"2004"	"2004"	"Drug-induced causes"	"D"	107	930009	11.5	11.9	0.0%
+	"Montana"	"30"	"2005"	"2005"	"Drug-induced causes"	"D"	103	940102	11.0	10.9	0.0%
+	"Montana"	"30"	"2006"	"2006"	"Drug-induced causes"	"D"	104	952692	10.9	10.9	0.0%
+	"Montana"	"30"	"2007"	"2007"	"Drug-induced causes"	"D"	127	964706	13.2	12.9	0.0%
+	"Montana"	"30"	"2008"	"2008"	"Drug-induced causes"	"D"	141	976415	14.4	14.8	0.0%
+	"Montana"	"30"	"2009"	"2009"	"Drug-induced causes"	"D"	149	983982	15.1	15.3	0.0%
+	"Montana"	"30"	"2010"	"2010"	"Drug-induced causes"	"D"	126	989415	12.7	13.6	0.0%
+	"Montana"	"30"	"2011"	"2011"	"Drug-induced causes"	"D"	146	998199	14.6	14.9	0.0%
+	"Montana"	"30"	"2012"	"2012"	"Drug-induced causes"	"D"	127	1005141	12.6	12.8	0.0%
+	"Montana"	"30"	"2013"	"2013"	"Drug-induced causes"	"D"	144	1015165	14.2	15.1	0.0%
+	"Montana"	"30"	"2014"	"2014"	"Drug-induced causes"	"D"	130	1023579	12.7	12.9	0.0%
+	"Montana"	"30"	"2015"	"2015"	"Drug-induced causes"	"D"	150	1032949	14.5	15.1	0.0%
+	"Montana"	"30"	"2016"	"2016"	"Drug-induced causes"	"D"	135	1042520	12.9	13.1	0.0%
+	"Nebraska"	"31"	"1999"	"1999"	"Drug-induced causes"	"D"	49	1704764	2.9	2.9	0.0%
+	"Nebraska"	"31"	"2000"	"2000"	"Drug-induced causes"	"D"	47	1711263	2.7	2.8	0.0%
+	"Nebraska"	"31"	"2001"	"2001"	"Drug-induced causes"	"D"	69	1719836	4.0	4.1	0.0%
+	"Nebraska"	"31"	"2002"	"2002"	"Drug-induced causes"	"D"	74	1728292	4.3	4.4	0.0%
+	"Nebraska"	"31"	"2003"	"2003"	"Drug-induced causes"	"D"	59	1738643	3.4	3.5	0.0%
+	"Nebraska"	"31"	"2004"	"2004"	"Drug-induced causes"	"D"	61	1749370	3.5	3.7	0.0%
+	"Nebraska"	"31"	"2005"	"2005"	"Drug-induced causes"	"D"	90	1761497	5.1	5.2	0.0%
+	"Nebraska"	"31"	"2006"	"2006"	"Drug-induced causes"	"D"	93	1772693	5.2	5.5	0.0%
+	"Nebraska"	"31"	"2007"	"2007"	"Drug-induced causes"	"D"	86	1783440	4.8	5.1	0.0%
+	"Nebraska"	"31"	"2008"	"2008"	"Drug-induced causes"	"D"	99	1796378	5.5	5.7	0.0%
+	"Nebraska"	"31"	"2009"	"2009"	"Drug-induced causes"	"D"	115	1812683	6.3	6.4	0.0%
+	"Nebraska"	"31"	"2010"	"2010"	"Drug-induced causes"	"D"	125	1826341	6.8	7.1	0.0%
+	"Nebraska"	"31"	"2011"	"2011"	"Drug-induced causes"	"D"	147	1842641	8.0	8.1	0.0%
+	"Nebraska"	"31"	"2012"	"2012"	"Drug-induced causes"	"D"	157	1855525	8.5	8.5	0.0%
+	"Nebraska"	"31"	"2013"	"2013"	"Drug-induced causes"	"D"	126	1868516	6.7	7.0	0.0%
+	"Nebraska"	"31"	"2014"	"2014"	"Drug-induced causes"	"D"	144	1881503	7.7	8.1	0.0%
+	"Nebraska"	"31"	"2015"	"2015"	"Drug-induced causes"	"D"	152	1896190	8.0	8.2	0.0%
+	"Nebraska"	"31"	"2016"	"2016"	"Drug-induced causes"	"D"	134	1907116	7.0	7.1	0.0%
+	"Nevada"	"32"	"1999"	"1999"	"Drug-induced causes"	"D"	263	1934718	13.6	13.4	0.0%
+	"Nevada"	"32"	"2000"	"2000"	"Drug-induced causes"	"D"	329	1998257	16.5	16.4	0.0%
+	"Nevada"	"32"	"2001"	"2001"	"Drug-induced causes"	"D"	316	2098399	15.1	14.9	0.0%
+	"Nevada"	"32"	"2002"	"2002"	"Drug-induced causes"	"D"	421	2173791	19.4	19.1	0.1%
+	"Nevada"	"32"	"2003"	"2003"	"Drug-induced causes"	"D"	450	2248850	20.0	19.9	0.1%
+	"Nevada"	"32"	"2004"	"2004"	"Drug-induced causes"	"D"	481	2346222	20.5	20.2	0.1%
+	"Nevada"	"32"	"2005"	"2005"	"Drug-induced causes"	"D"	549	2432143	22.6	22.4	0.1%
+	"Nevada"	"32"	"2006"	"2006"	"Drug-induced causes"	"D"	532	2522658	21.1	20.7	0.1%
+	"Nevada"	"32"	"2007"	"2007"	"Drug-induced causes"	"D"	572	2601072	22.0	21.6	0.1%
+	"Nevada"	"32"	"2008"	"2008"	"Drug-induced causes"	"D"	593	2653630	22.3	21.8	0.1%
+	"Nevada"	"32"	"2009"	"2009"	"Drug-induced causes"	"D"	639	2684665	23.8	23.3	0.1%
+	"Nevada"	"32"	"2010"	"2010"	"Drug-induced causes"	"D"	714	2700551	26.4	25.5	0.1%
+	"Nevada"	"32"	"2011"	"2011"	"Drug-induced causes"	"D"	760	2723322	27.9	27.1	0.1%
+	"Nevada"	"32"	"2012"	"2012"	"Drug-induced causes"	"D"	693	2758931	25.1	24.1	0.1%
+	"Nevada"	"32"	"2013"	"2013"	"Drug-induced causes"	"D"	712	2790136	25.5	24.5	0.1%
+	"Nevada"	"32"	"2014"	"2014"	"Drug-induced causes"	"D"	652	2839099	23.0	22.0	0.1%
+	"Nevada"	"32"	"2015"	"2015"	"Drug-induced causes"	"D"	755	2890845	26.1	24.7	0.1%
+	"Nevada"	"32"	"2016"	"2016"	"Drug-induced causes"	"D"	785	2940058	26.7	25.5	0.1%
+	"New Hampshire"	"33"	"1999"	"1999"	"Drug-induced causes"	"D"	58	1222014	4.7	4.6	0.0%
+	"New Hampshire"	"33"	"2000"	"2000"	"Drug-induced causes"	"D"	50	1235786	4.0	3.8	0.0%
+	"New Hampshire"	"33"	"2001"	"2001"	"Drug-induced causes"	"D"	82	1255517	6.5	6.3	0.0%
+	"New Hampshire"	"33"	"2002"	"2002"	"Drug-induced causes"	"D"	120	1269089	9.5	9.3	0.0%
+	"New Hampshire"	"33"	"2003"	"2003"	"Drug-induced causes"	"D"	137	1279840	10.7	10.3	0.0%
+	"New Hampshire"	"33"	"2004"	"2004"	"Drug-induced causes"	"D"	130	1290121	10.1	10.0	0.0%
+	"New Hampshire"	"33"	"2005"	"2005"	"Drug-induced causes"	"D"	148	1298492	11.4	11.0	0.0%
+	"New Hampshire"	"33"	"2006"	"2006"	"Drug-induced causes"	"D"	161	1308389	12.3	12.1	0.0%
+	"New Hampshire"	"33"	"2007"	"2007"	"Drug-induced causes"	"D"	194	1312540	14.8	14.4	0.0%
+	"New Hampshire"	"33"	"2008"	"2008"	"Drug-induced causes"	"D"	132	1315906	10.0	9.8	0.0%
+	"New Hampshire"	"33"	"2009"	"2009"	"Drug-induced causes"	"D"	170	1316102	12.9	12.6	0.0%
+	"New Hampshire"	"33"	"2010"	"2010"	"Drug-induced causes"	"D"	169	1316470	12.8	12.5	0.0%
+	"New Hampshire"	"33"	"2011"	"2011"	"Drug-induced causes"	"D"	218	1318194	16.5	15.9	0.0%
+	"New Hampshire"	"33"	"2012"	"2012"	"Drug-induced causes"	"D"	182	1320718	13.8	14.0	0.0%
+	"New Hampshire"	"33"	"2013"	"2013"	"Drug-induced causes"	"D"	215	1323459	16.2	15.9	0.0%
+	"New Hampshire"	"33"	"2014"	"2014"	"Drug-induced causes"	"D"	343	1326813	25.9	26.9	0.0%
+	"New Hampshire"	"33"	"2015"	"2015"	"Drug-induced causes"	"D"	434	1330608	32.6	35.2	0.1%
+	"New Hampshire"	"33"	"2016"	"2016"	"Drug-induced causes"	"D"	502	1334795	37.6	40.6	0.1%
+	"New Jersey"	"34"	"1999"	"1999"	"Drug-induced causes"	"D"	638	8359592	7.6	7.4	0.1%
+	"New Jersey"	"34"	"2000"	"2000"	"Drug-induced causes"	"D"	705	8414350	8.4	8.3	0.1%
+	"New Jersey"	"34"	"2001"	"2001"	"Drug-induced causes"	"D"	773	8492671	9.1	8.9	0.1%
+	"New Jersey"	"34"	"2002"	"2002"	"Drug-induced causes"	"D"	862	8552643	10.1	9.9	0.1%
+	"New Jersey"	"34"	"2003"	"2003"	"Drug-induced causes"	"D"	776	8601402	9.0	8.9	0.1%
+	"New Jersey"	"34"	"2004"	"2004"	"Drug-induced causes"	"D"	644	8634561	7.5	7.4	0.1%
+	"New Jersey"	"34"	"2005"	"2005"	"Drug-induced causes"	"D"	884	8651974	10.2	10.1	0.1%
+	"New Jersey"	"34"	"2006"	"2006"	"Drug-induced causes"	"D"	891	8661679	10.3	10.2	0.1%
+	"New Jersey"	"34"	"2007"	"2007"	"Drug-induced causes"	"D"	765	8677885	8.8	8.8	0.1%
+	"New Jersey"	"34"	"2008"	"2008"	"Drug-induced causes"	"D"	742	8711090	8.5	8.4	0.1%
+	"New Jersey"	"34"	"2009"	"2009"	"Drug-induced causes"	"D"	284	8755602	3.2	3.2	0.0%
+	"New Jersey"	"34"	"2010"	"2010"	"Drug-induced causes"	"D"	916	8791894	10.4	10.3	0.1%
+	"New Jersey"	"34"	"2011"	"2011"	"Drug-induced causes"	"D"	1070	8821155	12.1	11.9	0.2%
+	"New Jersey"	"34"	"2012"	"2012"	"Drug-induced causes"	"D"	1284	8864590	14.5	14.4	0.2%
+	"New Jersey"	"34"	"2013"	"2013"	"Drug-induced causes"	"D"	1387	8899339	15.6	15.5	0.2%
+	"New Jersey"	"34"	"2014"	"2014"	"Drug-induced causes"	"D"	1317	8938175	14.7	14.7	0.2%
+	"New Jersey"	"34"	"2015"	"2015"	"Drug-induced causes"	"D"	1514	8958013	16.9	16.9	0.2%
+	"New Jersey"	"34"	"2016"	"2016"	"Drug-induced causes"	"D"	2141	8944469	23.9	24.1	0.3%
+	"New Mexico"	"35"	"1999"	"1999"	"Drug-induced causes"	"D"	290	1808082	16.0	16.4	0.0%
+	"New Mexico"	"35"	"2000"	"2000"	"Drug-induced causes"	"D"	297	1819046	16.3	16.6	0.0%
+	"New Mexico"	"35"	"2001"	"2001"	"Drug-induced causes"	"D"	281	1831690	15.3	15.6	0.0%
+	"New Mexico"	"35"	"2002"	"2002"	"Drug-induced causes"	"D"	317	1855309	17.1	17.8	0.0%
+	"New Mexico"	"35"	"2003"	"2003"	"Drug-induced causes"	"D"	391	1877574	20.8	21.5	0.1%
+	"New Mexico"	"35"	"2004"	"2004"	"Drug-induced causes"	"D"	349	1903808	18.3	18.8	0.1%
+	"New Mexico"	"35"	"2005"	"2005"	"Drug-induced causes"	"D"	402	1932274	20.8	21.5	0.1%
+	"New Mexico"	"35"	"2006"	"2006"	"Drug-induced causes"	"D"	442	1962137	22.5	22.9	0.1%
+	"New Mexico"	"35"	"2007"	"2007"	"Drug-induced causes"	"D"	491	1990070	24.7	24.9	0.1%
+	"New Mexico"	"35"	"2008"	"2008"	"Drug-induced causes"	"D"	553	2010662	27.5	28.5	0.1%
+	"New Mexico"	"35"	"2009"	"2009"	"Drug-induced causes"	"D"	477	2036802	23.4	24.0	0.1%
+	"New Mexico"	"35"	"2010"	"2010"	"Drug-induced causes"	"D"	518	2059179	25.2	25.7	0.1%
+	"New Mexico"	"35"	"2011"	"2011"	"Drug-induced causes"	"D"	579	2082224	27.8	28.7	0.1%
+	"New Mexico"	"35"	"2012"	"2012"	"Drug-induced causes"	"D"	553	2085538	26.5	27.5	0.1%
+	"New Mexico"	"35"	"2013"	"2013"	"Drug-induced causes"	"D"	527	2085287	25.3	25.8	0.1%
+	"New Mexico"	"35"	"2014"	"2014"	"Drug-induced causes"	"D"	587	2085572	28.1	29.3	0.1%
+	"New Mexico"	"35"	"2015"	"2015"	"Drug-induced causes"	"D"	550	2085109	26.4	27.6	0.1%
+	"New Mexico"	"35"	"2016"	"2016"	"Drug-induced causes"	"D"	558	2081015	26.8	28.1	0.1%
+	"New York"	"36"	"1999"	"1999"	"Drug-induced causes"	"D"	1082	18882725	5.7	5.7	0.2%
+	"New York"	"36"	"2000"	"2000"	"Drug-induced causes"	"D"	854	18976457	4.5	4.5	0.1%
+	"New York"	"36"	"2001"	"2001"	"Drug-induced causes"	"D"	1212	19082838	6.4	6.2	0.2%
+	"New York"	"36"	"2002"	"2002"	"Drug-induced causes"	"D"	1002	19137800	5.2	5.2	0.1%
+	"New York"	"36"	"2003"	"2003"	"Drug-induced causes"	"D"	1089	19175939	5.7	5.6	0.2%
+	"New York"	"36"	"2004"	"2004"	"Drug-induced causes"	"D"	927	19171567	4.8	4.7	0.1%
+	"New York"	"36"	"2005"	"2005"	"Drug-induced causes"	"D"	991	19132610	5.2	5.0	0.1%
+	"New York"	"36"	"2006"	"2006"	"Drug-induced causes"	"D"	1785	19104631	9.3	9.1	0.3%
+	"New York"	"36"	"2007"	"2007"	"Drug-induced causes"	"D"	1798	19132335	9.4	9.1	0.3%
+	"New York"	"36"	"2008"	"2008"	"Drug-induced causes"	"D"	1845	19212436	9.6	9.3	0.3%
+	"New York"	"36"	"2009"	"2009"	"Drug-induced causes"	"D"	1726	19307066	8.9	8.6	0.2%
+	"New York"	"36"	"2010"	"2010"	"Drug-induced causes"	"D"	1703	19378102	8.8	8.5	0.2%
+	"New York"	"36"	"2011"	"2011"	"Drug-induced causes"	"D"	2098	19465197	10.8	10.4	0.3%
+	"New York"	"36"	"2012"	"2012"	"Drug-induced causes"	"D"	2251	19570261	11.5	11.1	0.3%
+	"New York"	"36"	"2013"	"2013"	"Drug-induced causes"	"D"	2450	19651127	12.5	12.0	0.4%
+	"New York"	"36"	"2014"	"2014"	"Drug-induced causes"	"D"	2442	19746227	12.4	11.9	0.4%
+	"New York"	"36"	"2015"	"2015"	"Drug-induced causes"	"D"	2924	19795791	14.8	14.4	0.4%
+	"New York"	"36"	"2016"	"2016"	"Drug-induced causes"	"D"	3814	19745289	19.3	18.9	0.6%
+	"North Carolina"	"37"	"1999"	"1999"	"Drug-induced causes"	"D"	406	7949361	5.1	5.1	0.1%
+	"North Carolina"	"37"	"2000"	"2000"	"Drug-induced causes"	"D"	542	8049313	6.7	6.7	0.1%
+	"North Carolina"	"37"	"2001"	"2001"	"Drug-induced causes"	"D"	589	8210122	7.2	7.1	0.1%
+	"North Carolina"	"37"	"2002"	"2002"	"Drug-induced causes"	"D"	693	8326201	8.3	8.3	0.1%
+	"North Carolina"	"37"	"2003"	"2003"	"Drug-induced causes"	"D"	811	8422501	9.6	9.6	0.1%
+	"North Carolina"	"37"	"2004"	"2004"	"Drug-induced causes"	"D"	913	8553152	10.7	10.6	0.1%
+	"North Carolina"	"37"	"2005"	"2005"	"Drug-induced causes"	"D"	1057	8705407	12.1	12.1	0.2%
+	"North Carolina"	"37"	"2006"	"2006"	"Drug-induced causes"	"D"	1125	8917270	12.6	12.6	0.2%
+	"North Carolina"	"37"	"2007"	"2007"	"Drug-induced causes"	"D"	1152	9118037	12.6	12.6	0.2%
+	"North Carolina"	"37"	"2008"	"2008"	"Drug-induced causes"	"D"	1255	9309449	13.5	13.4	0.2%
+	"North Carolina"	"37"	"2009"	"2009"	"Drug-induced causes"	"D"	1247	9449566	13.2	13.2	0.2%
+	"North Carolina"	"37"	"2010"	"2010"	"Drug-induced causes"	"D"	1149	9535483	12.0	12.0	0.2%
+	"North Carolina"	"37"	"2011"	"2011"	"Drug-induced causes"	"D"	1303	9656401	13.5	13.4	0.2%
+	"North Carolina"	"37"	"2012"	"2012"	"Drug-induced causes"	"D"	1343	9752073	13.8	13.8	0.2%
+	"North Carolina"	"37"	"2013"	"2013"	"Drug-induced causes"	"D"	1286	9848060	13.1	13.2	0.2%
+	"North Carolina"	"37"	"2014"	"2014"	"Drug-induced causes"	"D"	1400	9943964	14.1	14.2	0.2%
+	"North Carolina"	"37"	"2015"	"2015"	"Drug-induced causes"	"D"	1620	10042802	16.1	16.3	0.2%
+	"North Carolina"	"37"	"2016"	"2016"	"Drug-induced causes"	"D"	2032	10146788	20.0	20.4	0.3%
+	"North Dakota"	"38"	"1999"	"1999"	"Drug-induced causes"	"D"	16	644259	Unreliable	Unreliable	0.0%
+	"North Dakota"	"38"	"2000"	"2000"	"Drug-induced causes"	"D"	17	642200	Unreliable	Unreliable	0.0%
+	"North Dakota"	"38"	"2001"	"2001"	"Drug-induced causes"	"D"	18	639062	Unreliable	Unreliable	0.0%
+	"North Dakota"	"38"	"2002"	"2002"	"Drug-induced causes"	"D"	20	638168	3.1	3.1	0.0%
+	"North Dakota"	"38"	"2003"	"2003"	"Drug-induced causes"	"D"	26	638817	4.1	4.1	0.0%
+	"North Dakota"	"38"	"2004"	"2004"	"Drug-induced causes"	"D"	21	644705	3.3	3.1	0.0%
+	"North Dakota"	"38"	"2005"	"2005"	"Drug-induced causes"	"D"	13	646089	Unreliable	Unreliable	0.0%
+	"North Dakota"	"38"	"2006"	"2006"	"Drug-induced causes"	"D"	15	649422	Unreliable	Unreliable	0.0%
+	"North Dakota"	"38"	"2007"	"2007"	"Drug-induced causes"	"D"	35	652822	5.4	5.2	0.0%
+	"North Dakota"	"38"	"2008"	"2008"	"Drug-induced causes"	"D"	49	657569	7.5	7.7	0.0%
+	"North Dakota"	"38"	"2009"	"2009"	"Drug-induced causes"	"D"	30	664968	4.5	4.8	0.0%
+	"North Dakota"	"38"	"2010"	"2010"	"Drug-induced causes"	"D"	24	672591	3.6	3.5	0.0%
+	"North Dakota"	"38"	"2011"	"2011"	"Drug-induced causes"	"D"	21	683932	3.1	2.6	0.0%
+	"North Dakota"	"38"	"2012"	"2012"	"Drug-induced causes"	"D"	21	699628	3.0	3.1	0.0%
+	"North Dakota"	"38"	"2013"	"2013"	"Drug-induced causes"	"D"	27	723393	3.7	3.8	0.0%
+	"North Dakota"	"38"	"2014"	"2014"	"Drug-induced causes"	"D"	47	739482	6.4	6.8	0.0%
+	"North Dakota"	"38"	"2015"	"2015"	"Drug-induced causes"	"D"	69	756927	9.1	9.8	0.0%
+	"North Dakota"	"38"	"2016"	"2016"	"Drug-induced causes"	"D"	89	757952	11.7	12.1	0.0%
+	"Ohio"	"39"	"1999"	"1999"	"Drug-induced causes"	"D"	552	11335454	4.9	4.9	0.1%
+	"Ohio"	"39"	"2000"	"2000"	"Drug-induced causes"	"D"	651	11353140	5.7	5.7	0.1%
+	"Ohio"	"39"	"2001"	"2001"	"Drug-induced causes"	"D"	857	11387404	7.5	7.5	0.1%
+	"Ohio"	"39"	"2002"	"2002"	"Drug-induced causes"	"D"	1075	11407889	9.4	9.4	0.2%
+	"Ohio"	"39"	"2003"	"2003"	"Drug-induced causes"	"D"	891	11434788	7.8	7.8	0.1%
+	"Ohio"	"39"	"2004"	"2004"	"Drug-induced causes"	"D"	1323	11452251	11.6	11.5	0.2%
+	"Ohio"	"39"	"2005"	"2005"	"Drug-induced causes"	"D"	1443	11463320	12.6	12.6	0.2%
+	"Ohio"	"39"	"2006"	"2006"	"Drug-induced causes"	"D"	1706	11481213	14.9	14.9	0.2%
+	"Ohio"	"39"	"2007"	"2007"	"Drug-induced causes"	"D"	1796	11500468	15.6	15.6	0.3%
+	"Ohio"	"39"	"2008"	"2008"	"Drug-induced causes"	"D"	1938	11515391	16.8	16.9	0.3%
+	"Ohio"	"39"	"2009"	"2009"	"Drug-induced causes"	"D"	1392	11528896	12.1	12.2	0.2%
+	"Ohio"	"39"	"2010"	"2010"	"Drug-induced causes"	"D"	2030	11536504	17.6	17.7	0.3%
+	"Ohio"	"39"	"2011"	"2011"	"Drug-induced causes"	"D"	2211	11544951	19.2	19.3	0.3%
+	"Ohio"	"39"	"2012"	"2012"	"Drug-induced causes"	"D"	2307	11544225	20.0	20.4	0.3%
+	"Ohio"	"39"	"2013"	"2013"	"Drug-induced causes"	"D"	2539	11570808	21.9	22.4	0.4%
+	"Ohio"	"39"	"2014"	"2014"	"Drug-induced causes"	"D"	2921	11594163	25.2	26.1	0.4%
+	"Ohio"	"39"	"2015"	"2015"	"Drug-induced causes"	"D"	3475	11613423	29.9	31.3	0.5%
+	"Ohio"	"39"	"2016"	"2016"	"Drug-induced causes"	"D"	4544	11614373	39.1	40.9	0.7%
+	"Oklahoma"	"40"	"1999"	"1999"	"Drug-induced causes"	"D"	201	3437147	5.8	6.0	0.0%
+	"Oklahoma"	"40"	"2000"	"2000"	"Drug-induced causes"	"D"	272	3450654	7.9	8.2	0.0%
+	"Oklahoma"	"40"	"2001"	"2001"	"Drug-induced causes"	"D"	307	3467100	8.9	9.1	0.0%
+	"Oklahoma"	"40"	"2002"	"2002"	"Drug-induced causes"	"D"	282	3489080	8.1	8.3	0.0%
+	"Oklahoma"	"40"	"2003"	"2003"	"Drug-induced causes"	"D"	442	3504892	12.6	13.0	0.1%
+	"Oklahoma"	"40"	"2004"	"2004"	"Drug-induced causes"	"D"	525	3525233	14.9	15.4	0.1%
+	"Oklahoma"	"40"	"2005"	"2005"	"Drug-induced causes"	"D"	524	3548597	14.8	15.2	0.1%
+	"Oklahoma"	"40"	"2006"	"2006"	"Drug-induced causes"	"D"	595	3594090	16.6	17.1	0.1%
+	"Oklahoma"	"40"	"2007"	"2007"	"Drug-induced causes"	"D"	688	3634349	18.9	19.4	0.1%
+	"Oklahoma"	"40"	"2008"	"2008"	"Drug-induced causes"	"D"	592	3668976	16.1	16.4	0.1%
+	"Oklahoma"	"40"	"2009"	"2009"	"Drug-induced causes"	"D"	797	3717572	21.4	21.7	0.1%
+	"Oklahoma"	"40"	"2010"	"2010"	"Drug-induced causes"	"D"	758	3751351	20.2	20.5	0.1%
+	"Oklahoma"	"40"	"2011"	"2011"	"Drug-induced causes"	"D"	733	3791508	19.3	19.7	0.1%
+	"Oklahoma"	"40"	"2012"	"2012"	"Drug-induced causes"	"D"	812	3814820	21.3	21.6	0.1%
+	"Oklahoma"	"40"	"2013"	"2013"	"Drug-induced causes"	"D"	832	3850568	21.6	21.8	0.1%
+	"Oklahoma"	"40"	"2014"	"2014"	"Drug-induced causes"	"D"	843	3878051	21.7	22.1	0.1%
+	"Oklahoma"	"40"	"2015"	"2015"	"Drug-induced causes"	"D"	834	3911338	21.3	21.9	0.1%
+	"Oklahoma"	"40"	"2016"	"2016"	"Drug-induced causes"	"D"	894	3923561	22.8	23.4	0.1%
+	"Oregon"	"41"	"1999"	"1999"	"Drug-induced causes"	"D"	320	3393941	9.4	9.4	0.0%
+	"Oregon"	"41"	"2000"	"2000"	"Drug-induced causes"	"D"	301	3421399	8.8	8.7	0.0%
+	"Oregon"	"41"	"2001"	"2001"	"Drug-induced causes"	"D"	311	3467937	9.0	8.9	0.0%
+	"Oregon"	"41"	"2002"	"2002"	"Drug-induced causes"	"D"	405	3513424	11.5	11.4	0.1%
+	"Oregon"	"41"	"2003"	"2003"	"Drug-induced causes"	"D"	430	3547376	12.1	11.9	0.1%
+	"Oregon"	"41"	"2004"	"2004"	"Drug-induced causes"	"D"	443	3569463	12.4	12.2	0.1%
+	"Oregon"	"41"	"2005"	"2005"	"Drug-induced causes"	"D"	472	3613202	13.1	12.7	0.1%
+	"Oregon"	"41"	"2006"	"2006"	"Drug-induced causes"	"D"	541	3670883	14.7	14.4	0.1%
+	"Oregon"	"41"	"2007"	"2007"	"Drug-induced causes"	"D"	521	3722417	14.0	13.6	0.1%
+	"Oregon"	"41"	"2008"	"2008"	"Drug-induced causes"	"D"	483	3768748	12.8	12.6	0.1%
+	"Oregon"	"41"	"2009"	"2009"	"Drug-induced causes"	"D"	528	3808600	13.9	13.5	0.1%
+	"Oregon"	"41"	"2010"	"2010"	"Drug-induced causes"	"D"	530	3831074	13.8	13.6	0.1%
+	"Oregon"	"41"	"2011"	"2011"	"Drug-induced causes"	"D"	570	3871859	14.7	14.4	0.1%
+	"Oregon"	"41"	"2012"	"2012"	"Drug-induced causes"	"D"	521	3899353	13.4	13.2	0.1%
+	"Oregon"	"41"	"2013"	"2013"	"Drug-induced causes"	"D"	485	3930065	12.3	12.0	0.1%
+	"Oregon"	"41"	"2014"	"2014"	"Drug-induced causes"	"D"	562	3970239	14.2	13.8	0.1%
+	"Oregon"	"41"	"2015"	"2015"	"Drug-induced causes"	"D"	547	4028977	13.6	13.0	0.1%
+	"Oregon"	"41"	"2016"	"2016"	"Drug-induced causes"	"D"	548	4093465	13.4	12.9	0.1%
+	"Pennsylvania"	"42"	"1999"	"1999"	"Drug-induced causes"	"D"	1070	12263805	8.7	8.7	0.2%
+	"Pennsylvania"	"42"	"2000"	"2000"	"Drug-induced causes"	"D"	1229	12281054	10.0	10.1	0.2%
+	"Pennsylvania"	"42"	"2001"	"2001"	"Drug-induced causes"	"D"	1029	12298970	8.4	8.5	0.1%
+	"Pennsylvania"	"42"	"2002"	"2002"	"Drug-induced causes"	"D"	1179	12331031	9.6	9.7	0.2%
+	"Pennsylvania"	"42"	"2003"	"2003"	"Drug-induced causes"	"D"	1470	12374658	11.9	12.1	0.2%
+	"Pennsylvania"	"42"	"2004"	"2004"	"Drug-induced causes"	"D"	1623	12410722	13.1	13.3	0.2%
+	"Pennsylvania"	"42"	"2005"	"2005"	"Drug-induced causes"	"D"	1708	12449990	13.7	13.9	0.2%
+	"Pennsylvania"	"42"	"2006"	"2006"	"Drug-induced causes"	"D"	1710	12510809	13.7	14.0	0.2%
+	"Pennsylvania"	"42"	"2007"	"2007"	"Drug-induced causes"	"D"	1812	12563937	14.4	14.5	0.3%
+	"Pennsylvania"	"42"	"2008"	"2008"	"Drug-induced causes"	"D"	1936	12612285	15.4	15.5	0.3%
+	"Pennsylvania"	"42"	"2009"	"2009"	"Drug-induced causes"	"D"	1990	12666858	15.7	15.9	0.3%
+	"Pennsylvania"	"42"	"2010"	"2010"	"Drug-induced causes"	"D"	1984	12702379	15.6	15.8	0.3%
+	"Pennsylvania"	"42"	"2011"	"2011"	"Drug-induced causes"	"D"	2382	12742886	18.7	19.0	0.3%
+	"Pennsylvania"	"42"	"2012"	"2012"	"Drug-induced causes"	"D"	2439	12763536	19.1	19.5	0.4%
+	"Pennsylvania"	"42"	"2013"	"2013"	"Drug-induced causes"	"D"	2498	12773801	19.6	19.9	0.4%
+	"Pennsylvania"	"42"	"2014"	"2014"	"Drug-induced causes"	"D"	2823	12787209	22.1	22.6	0.4%
+	"Pennsylvania"	"42"	"2015"	"2015"	"Drug-induced causes"	"D"	3360	12802503	26.2	27.0	0.5%
+	"Pennsylvania"	"42"	"2016"	"2016"	"Drug-induced causes"	"D"	4746	12784227	37.1	38.7	0.7%
+	"Rhode Island"	"44"	"1999"	"1999"	"Drug-induced causes"	"D"	66	1040402	6.3	6.2	0.0%
+	"Rhode Island"	"44"	"2000"	"2000"	"Drug-induced causes"	"D"	88	1048319	8.4	8.3	0.0%
+	"Rhode Island"	"44"	"2001"	"2001"	"Drug-induced causes"	"D"	127	1057142	12.0	11.8	0.0%
+	"Rhode Island"	"44"	"2002"	"2002"	"Drug-induced causes"	"D"	115	1065995	10.8	10.8	0.0%
+	"Rhode Island"	"44"	"2003"	"2003"	"Drug-induced causes"	"D"	161	1071342	15.0	15.1	0.0%
+	"Rhode Island"	"44"	"2004"	"2004"	"Drug-induced causes"	"D"	120	1074579	11.2	11.1	0.0%
+	"Rhode Island"	"44"	"2005"	"2005"	"Drug-induced causes"	"D"	187	1067916	17.5	17.1	0.0%
+	"Rhode Island"	"44"	"2006"	"2006"	"Drug-induced causes"	"D"	185	1063096	17.4	17.3	0.0%
+	"Rhode Island"	"44"	"2007"	"2007"	"Drug-induced causes"	"D"	139	1057315	13.1	12.8	0.0%
+	"Rhode Island"	"44"	"2008"	"2008"	"Drug-induced causes"	"D"	188	1055003	17.8	17.6	0.0%
+	"Rhode Island"	"44"	"2009"	"2009"	"Drug-induced causes"	"D"	168	1053646	15.9	15.4	0.0%
+	"Rhode Island"	"44"	"2010"	"2010"	"Drug-induced causes"	"D"	169	1052567	16.1	15.7	0.0%
+	"Rhode Island"	"44"	"2011"	"2011"	"Drug-induced causes"	"D"	198	1051302	18.8	18.3	0.0%
+	"Rhode Island"	"44"	"2012"	"2012"	"Drug-induced causes"	"D"	204	1050292	19.4	18.9	0.0%
+	"Rhode Island"	"44"	"2013"	"2013"	"Drug-induced causes"	"D"	261	1051511	24.8	24.2	0.0%
+	"Rhode Island"	"44"	"2014"	"2014"	"Drug-induced causes"	"D"	258	1055173	24.5	24.3	0.0%
+	"Rhode Island"	"44"	"2015"	"2015"	"Drug-induced causes"	"D"	317	1056298	30.0	28.8	0.0%
+	"Rhode Island"	"44"	"2016"	"2016"	"Drug-induced causes"	"D"	334	1056426	31.6	31.5	0.0%
+	"South Carolina"	"45"	"1999"	"1999"	"Drug-induced causes"	"D"	168	3974682	4.2	4.2	0.0%
+	"South Carolina"	"45"	"2000"	"2000"	"Drug-induced causes"	"D"	286	4012012	7.1	7.2	0.0%
+	"South Carolina"	"45"	"2001"	"2001"	"Drug-induced causes"	"D"	272	4064995	6.7	6.7	0.0%
+	"South Carolina"	"45"	"2002"	"2002"	"Drug-induced causes"	"D"	237	4107795	5.8	5.8	0.0%
+	"South Carolina"	"45"	"2003"	"2003"	"Drug-induced causes"	"D"	314	4150297	7.6	7.6	0.0%
+	"South Carolina"	"45"	"2004"	"2004"	"Drug-induced causes"	"D"	388	4210921	9.2	9.2	0.1%
+	"South Carolina"	"45"	"2005"	"2005"	"Drug-induced causes"	"D"	455	4270150	10.7	10.6	0.1%
+	"South Carolina"	"45"	"2006"	"2006"	"Drug-induced causes"	"D"	613	4357847	14.1	14.0	0.1%
+	"South Carolina"	"45"	"2007"	"2007"	"Drug-induced causes"	"D"	599	4444110	13.5	13.4	0.1%
+	"South Carolina"	"45"	"2008"	"2008"	"Drug-induced causes"	"D"	620	4528996	13.7	13.7	0.1%
+	"South Carolina"	"45"	"2009"	"2009"	"Drug-induced causes"	"D"	666	4589872	14.5	14.3	0.1%
+	"South Carolina"	"45"	"2010"	"2010"	"Drug-induced causes"	"D"	739	4625364	16.0	15.9	0.1%
+	"South Carolina"	"45"	"2011"	"2011"	"Drug-induced causes"	"D"	676	4679230	14.4	14.5	0.1%
+	"South Carolina"	"45"	"2012"	"2012"	"Drug-induced causes"	"D"	647	4723723	13.7	13.7	0.1%
+	"South Carolina"	"45"	"2013"	"2013"	"Drug-induced causes"	"D"	669	4774839	14.0	13.9	0.1%
+	"South Carolina"	"45"	"2014"	"2014"	"Drug-induced causes"	"D"	767	4832482	15.9	15.7	0.1%
+	"South Carolina"	"45"	"2015"	"2015"	"Drug-induced causes"	"D"	826	4896146	16.9	16.9	0.1%
+	"South Carolina"	"45"	"2016"	"2016"	"Drug-induced causes"	"D"	961	4961119	19.4	19.6	0.1%
+	"South Dakota"	"46"	"1999"	"1999"	"Drug-induced causes"	"D"	19	750412	Unreliable	Unreliable	0.0%
+	"South Dakota"	"46"	"2000"	"2000"	"Drug-induced causes"	"D"	21	754844	2.8	2.9	0.0%
+	"South Dakota"	"46"	"2001"	"2001"	"Drug-induced causes"	"D"	29	757972	3.8	3.8	0.0%
+	"South Dakota"	"46"	"2002"	"2002"	"Drug-induced causes"	"D"	23	760020	3.0	3.2	0.0%
+	"South Dakota"	"46"	"2003"	"2003"	"Drug-induced causes"	"D"	29	763729	3.8	3.9	0.0%
+	"South Dakota"	"46"	"2004"	"2004"	"Drug-induced causes"	"D"	45	770396	5.8	6.0	0.0%
+	"South Dakota"	"46"	"2005"	"2005"	"Drug-induced causes"	"D"	44	775493	5.7	6.0	0.0%
+	"South Dakota"	"46"	"2006"	"2006"	"Drug-induced causes"	"D"	40	783033	5.1	5.4	0.0%
+	"South Dakota"	"46"	"2007"	"2007"	"Drug-induced causes"	"D"	37	791623	4.7	4.6	0.0%
+	"South Dakota"	"46"	"2008"	"2008"	"Drug-induced causes"	"D"	56	799124	7.0	7.6	0.0%
+	"South Dakota"	"46"	"2009"	"2009"	"Drug-induced causes"	"D"	51	807067	6.3	6.9	0.0%
+	"South Dakota"	"46"	"2010"	"2010"	"Drug-induced causes"	"D"	49	814180	6.0	6.7	0.0%
+	"South Dakota"	"46"	"2011"	"2011"	"Drug-induced causes"	"D"	63	824082	7.6	7.8	0.0%
+	"South Dakota"	"46"	"2012"	"2012"	"Drug-induced causes"	"D"	46	833354	5.5	5.9	0.0%
+	"South Dakota"	"46"	"2013"	"2013"	"Drug-induced causes"	"D"	58	844877	6.9	7.3	0.0%
+	"South Dakota"	"46"	"2014"	"2014"	"Drug-induced causes"	"D"	67	853175	7.9	8.3	0.0%
+	"South Dakota"	"46"	"2015"	"2015"	"Drug-induced causes"	"D"	75	858469	8.7	9.7	0.0%
+	"South Dakota"	"46"	"2016"	"2016"	"Drug-induced causes"	"D"	72	865454	8.3	8.8	0.0%
+	"Tennessee"	"47"	"1999"	"1999"	"Drug-induced causes"	"D"	372	5638706	6.6	6.6	0.1%
+	"Tennessee"	"47"	"2000"	"2000"	"Drug-induced causes"	"D"	439	5689283	7.7	7.7	0.1%
+	"Tennessee"	"47"	"2001"	"2001"	"Drug-induced causes"	"D"	479	5750789	8.3	8.3	0.1%
+	"Tennessee"	"47"	"2002"	"2002"	"Drug-induced causes"	"D"	552	5795918	9.5	9.5	0.1%
+	"Tennessee"	"47"	"2003"	"2003"	"Drug-induced causes"	"D"	747	5847812	12.8	12.8	0.1%
+	"Tennessee"	"47"	"2004"	"2004"	"Drug-induced causes"	"D"	846	5910809	14.3	14.2	0.1%
+	"Tennessee"	"47"	"2005"	"2005"	"Drug-induced causes"	"D"	961	5991057	16.0	16.0	0.1%
+	"Tennessee"	"47"	"2006"	"2006"	"Drug-induced causes"	"D"	1046	6088766	17.2	17.2	0.2%
+	"Tennessee"	"47"	"2007"	"2007"	"Drug-induced causes"	"D"	1047	6175727	17.0	16.8	0.2%
+	"Tennessee"	"47"	"2008"	"2008"	"Drug-induced causes"	"D"	1013	6247411	16.2	16.0	0.1%
+	"Tennessee"	"47"	"2009"	"2009"	"Drug-induced causes"	"D"	1029	6306019	16.3	16.2	0.1%
+	"Tennessee"	"47"	"2010"	"2010"	"Drug-induced causes"	"D"	1148	6346105	18.1	18.0	0.2%
+	"Tennessee"	"47"	"2011"	"2011"	"Drug-induced causes"	"D"	1156	6403353	18.1	18.1	0.2%
+	"Tennessee"	"47"	"2012"	"2012"	"Drug-induced causes"	"D"	1200	6456243	18.6	18.6	0.2%
+	"Tennessee"	"47"	"2013"	"2013"	"Drug-induced causes"	"D"	1250	6495978	19.2	19.0	0.2%
+	"Tennessee"	"47"	"2014"	"2014"	"Drug-induced causes"	"D"	1354	6549352	20.7	20.7	0.2%
+	"Tennessee"	"47"	"2015"	"2015"	"Drug-induced causes"	"D"	1540	6600299	23.3	23.3	0.2%
+	"Tennessee"	"47"	"2016"	"2016"	"Drug-induced causes"	"D"	1760	6651194	26.5	26.4	0.3%
+	"Texas"	"48"	"1999"	"1999"	"Drug-induced causes"	"D"	1273	20558220	6.2	6.3	0.2%
+	"Texas"	"48"	"2000"	"2000"	"Drug-induced causes"	"D"	1304	20851820	6.3	6.4	0.2%
+	"Texas"	"48"	"2001"	"2001"	"Drug-induced causes"	"D"	1571	21319622	7.4	7.5	0.2%
+	"Texas"	"48"	"2002"	"2002"	"Drug-induced causes"	"D"	1812	21690325	8.4	8.5	0.3%
+	"Texas"	"48"	"2003"	"2003"	"Drug-induced causes"	"D"	1971	22030931	8.9	9.1	0.3%
+	"Texas"	"48"	"2004"	"2004"	"Drug-induced causes"	"D"	2019	22394023	9.0	9.2	0.3%
+	"Texas"	"48"	"2005"	"2005"	"Drug-induced causes"	"D"	2148	22778123	9.4	9.6	0.3%
+	"Texas"	"48"	"2006"	"2006"	"Drug-induced causes"	"D"	2435	23359580	10.4	10.6	0.4%
+	"Texas"	"48"	"2007"	"2007"	"Drug-induced causes"	"D"	2405	23831983	10.1	10.2	0.3%
+	"Texas"	"48"	"2008"	"2008"	"Drug-induced causes"	"D"	2251	24309039	9.3	9.4	0.3%
+	"Texas"	"48"	"2009"	"2009"	"Drug-induced causes"	"D"	2651	24801761	10.7	10.8	0.4%
+	"Texas"	"48"	"2010"	"2010"	"Drug-induced causes"	"D"	2627	25145561	10.4	10.5	0.4%
+	"Texas"	"48"	"2011"	"2011"	"Drug-induced causes"	"D"	2847	25674681	11.1	11.1	0.4%
+	"Texas"	"48"	"2012"	"2012"	"Drug-induced causes"	"D"	2743	26059203	10.5	10.6	0.4%
+	"Texas"	"48"	"2013"	"2013"	"Drug-induced causes"	"D"	2784	26448193	10.5	10.6	0.4%
+	"Texas"	"48"	"2014"	"2014"	"Drug-induced causes"	"D"	2925	26956958	10.9	10.9	0.4%
+	"Texas"	"48"	"2015"	"2015"	"Drug-induced causes"	"D"	2947	27469114	10.7	10.7	0.4%
+	"Texas"	"48"	"2016"	"2016"	"Drug-induced causes"	"D"	3225	27862596	11.6	11.5	0.5%
+	"Utah"	"49"	"1999"	"1999"	"Drug-induced causes"	"D"	218	2203482	9.9	11.3	0.0%
+	"Utah"	"49"	"2000"	"2000"	"Drug-induced causes"	"D"	223	2233169	10.0	11.0	0.0%
+	"Utah"	"49"	"2001"	"2001"	"Drug-induced causes"	"D"	226	2283715	9.9	11.2	0.0%
+	"Utah"	"49"	"2002"	"2002"	"Drug-induced causes"	"D"	311	2324815	13.4	15.2	0.0%
+	"Utah"	"49"	"2003"	"2003"	"Drug-induced causes"	"D"	374	2360137	15.8	17.1	0.1%
+	"Utah"	"49"	"2004"	"2004"	"Drug-induced causes"	"D"	380	2401580	15.8	17.4	0.1%
+	"Utah"	"49"	"2005"	"2005"	"Drug-induced causes"	"D"	468	2457719	19.0	20.8	0.1%
+	"Utah"	"49"	"2006"	"2006"	"Drug-induced causes"	"D"	470	2525507	18.6	20.3	0.1%
+	"Utah"	"49"	"2007"	"2007"	"Drug-induced causes"	"D"	546	2597746	21.0	22.8	0.1%
+	"Utah"	"49"	"2008"	"2008"	"Drug-induced causes"	"D"	501	2663029	18.8	20.5	0.1%
+	"Utah"	"49"	"2009"	"2009"	"Drug-induced causes"	"D"	517	2723421	19.0	20.7	0.1%
+	"Utah"	"49"	"2010"	"2010"	"Drug-induced causes"	"D"	467	2763885	16.9	18.3	0.1%
+	"Utah"	"49"	"2011"	"2011"	"Drug-induced causes"	"D"	538	2817222	19.1	20.8	0.1%
+	"Utah"	"49"	"2012"	"2012"	"Drug-induced causes"	"D"	638	2855287	22.3	24.6	0.1%
+	"Utah"	"49"	"2013"	"2013"	"Drug-induced causes"	"D"	635	2900872	21.9	23.6	0.1%
+	"Utah"	"49"	"2014"	"2014"	"Drug-induced causes"	"D"	643	2942902	21.8	23.9	0.1%
+	"Utah"	"49"	"2015"	"2015"	"Drug-induced causes"	"D"	690	2995919	23.0	24.9	0.1%
+	"Utah"	"49"	"2016"	"2016"	"Drug-induced causes"	"D"	678	3051217	22.2	23.8	0.1%
+	"Vermont"	"50"	"1999"	"1999"	"Drug-induced causes"	"D"	34	604683	5.6	5.5	0.0%
+	"Vermont"	"50"	"2000"	"2000"	"Drug-induced causes"	"D"	39	608827	6.4	6.3	0.0%
+	"Vermont"	"50"	"2001"	"2001"	"Drug-induced causes"	"D"	60	612223	9.8	9.6	0.0%
+	"Vermont"	"50"	"2002"	"2002"	"Drug-induced causes"	"D"	58	615442	9.4	9.3	0.0%
+	"Vermont"	"50"	"2003"	"2003"	"Drug-induced causes"	"D"	75	617858	12.1	11.8	0.0%
+	"Vermont"	"50"	"2004"	"2004"	"Drug-induced causes"	"D"	58	619920	9.4	9.1	0.0%
+	"Vermont"	"50"	"2005"	"2005"	"Drug-induced causes"	"D"	72	621215	11.6	11.2	0.0%
+	"Vermont"	"50"	"2006"	"2006"	"Drug-induced causes"	"D"	79	622892	12.7	12.9	0.0%
+	"Vermont"	"50"	"2007"	"2007"	"Drug-induced causes"	"D"	72	623481	11.5	11.7	0.0%
+	"Vermont"	"50"	"2008"	"2008"	"Drug-induced causes"	"D"	75	624151	12.0	11.2	0.0%
+	"Vermont"	"50"	"2009"	"2009"	"Drug-induced causes"	"D"	67	624817	10.7	10.0	0.0%
+	"Vermont"	"50"	"2010"	"2010"	"Drug-induced causes"	"D"	67	625741	10.7	10.1	0.0%
+	"Vermont"	"50"	"2011"	"2011"	"Drug-induced causes"	"D"	96	626431	15.3	14.9	0.0%
+	"Vermont"	"50"	"2012"	"2012"	"Drug-induced causes"	"D"	75	626011	12.0	11.7	0.0%
+	"Vermont"	"50"	"2013"	"2013"	"Drug-induced causes"	"D"	102	626630	16.3	16.3	0.0%
+	"Vermont"	"50"	"2014"	"2014"	"Drug-induced causes"	"D"	95	626562	15.2	15.7	0.0%
+	"Vermont"	"50"	"2015"	"2015"	"Drug-induced causes"	"D"	107	626042	17.1	17.6	0.0%
+	"Vermont"	"50"	"2016"	"2016"	"Drug-induced causes"	"D"	129	624594	20.7	22.9	0.0%
+	"Virginia"	"51"	"1999"	"1999"	"Drug-induced causes"	"D"	395	7000174	5.6	5.5	0.1%
+	"Virginia"	"51"	"2000"	"2000"	"Drug-induced causes"	"D"	445	7078515	6.3	6.1	0.1%
+	"Virginia"	"51"	"2001"	"2001"	"Drug-induced causes"	"D"	514	7198362	7.1	6.9	0.1%
+	"Virginia"	"51"	"2002"	"2002"	"Drug-induced causes"	"D"	549	7286873	7.5	7.4	0.1%
+	"Virginia"	"51"	"2003"	"2003"	"Drug-induced causes"	"D"	586	7366977	8.0	7.8	0.1%
+	"Virginia"	"51"	"2004"	"2004"	"Drug-induced causes"	"D"	603	7475575	8.1	7.9	0.1%
+	"Virginia"	"51"	"2005"	"2005"	"Drug-induced causes"	"D"	629	7577105	8.3	8.2	0.1%
+	"Virginia"	"51"	"2006"	"2006"	"Drug-induced causes"	"D"	680	7673725	8.9	8.7	0.1%
+	"Virginia"	"51"	"2007"	"2007"	"Drug-induced causes"	"D"	750	7751000	9.7	9.5	0.1%
+	"Virginia"	"51"	"2008"	"2008"	"Drug-induced causes"	"D"	759	7833496	9.7	9.5	0.1%
+	"Virginia"	"51"	"2009"	"2009"	"Drug-induced causes"	"D"	714	7925937	9.0	8.9	0.1%
+	"Virginia"	"51"	"2010"	"2010"	"Drug-induced causes"	"D"	590	8001024	7.4	7.2	0.1%
+	"Virginia"	"51"	"2011"	"2011"	"Drug-induced causes"	"D"	830	8096604	10.3	10.1	0.1%
+	"Virginia"	"51"	"2012"	"2012"	"Drug-induced causes"	"D"	771	8185867	9.4	9.4	0.1%
+	"Virginia"	"51"	"2013"	"2013"	"Drug-induced causes"	"D"	897	8260405	10.9	10.7	0.1%
+	"Virginia"	"51"	"2014"	"2014"	"Drug-induced causes"	"D"	1025	8326289	12.3	12.2	0.1%
+	"Virginia"	"51"	"2015"	"2015"	"Drug-induced causes"	"D"	1077	8382993	12.8	12.8	0.2%
+	"Virginia"	"51"	"2016"	"2016"	"Drug-induced causes"	"D"	1436	8411808	17.1	17.1	0.2%
+	"Washington"	"53"	"1999"	"1999"	"Drug-induced causes"	"D"	601	5842564	10.3	10.1	0.1%
+	"Washington"	"53"	"2000"	"2000"	"Drug-induced causes"	"D"	622	5894121	10.6	10.3	0.1%
+	"Washington"	"53"	"2001"	"2001"	"Drug-induced causes"	"D"	541	5985722	9.0	8.8	0.1%
+	"Washington"	"53"	"2002"	"2002"	"Drug-induced causes"	"D"	710	6052349	11.7	11.5	0.1%
+	"Washington"	"53"	"2003"	"2003"	"Drug-induced causes"	"D"	764	6104115	12.5	12.2	0.1%
+	"Washington"	"53"	"2004"	"2004"	"Drug-induced causes"	"D"	876	6178645	14.2	13.8	0.1%
+	"Washington"	"53"	"2005"	"2005"	"Drug-induced causes"	"D"	931	6257305	14.9	14.3	0.1%
+	"Washington"	"53"	"2006"	"2006"	"Drug-induced causes"	"D"	996	6370753	15.6	15.1	0.1%
+	"Washington"	"53"	"2007"	"2007"	"Drug-induced causes"	"D"	1038	6461587	16.1	15.5	0.1%
+	"Washington"	"53"	"2008"	"2008"	"Drug-induced causes"	"D"	1080	6562231	16.5	15.8	0.2%
+	"Washington"	"53"	"2009"	"2009"	"Drug-induced causes"	"D"	1075	6667426	16.1	15.5	0.2%
+	"Washington"	"53"	"2010"	"2010"	"Drug-induced causes"	"D"	1002	6724540	14.9	14.4	0.1%
+	"Washington"	"53"	"2011"	"2011"	"Drug-induced causes"	"D"	1060	6830038	15.5	15.0	0.2%
+	"Washington"	"53"	"2012"	"2012"	"Drug-induced causes"	"D"	1070	6897012	15.5	14.9	0.2%
+	"Washington"	"53"	"2013"	"2013"	"Drug-induced causes"	"D"	1055	6971406	15.1	14.6	0.2%
+	"Washington"	"53"	"2014"	"2014"	"Drug-induced causes"	"D"	1066	7061530	15.1	14.4	0.2%
+	"Washington"	"53"	"2015"	"2015"	"Drug-induced causes"	"D"	1201	7170351	16.7	16.1	0.2%
+	"Washington"	"53"	"2016"	"2016"	"Drug-induced causes"	"D"	1216	7288000	16.7	16.0	0.2%
+	"West Virginia"	"54"	"1999"	"1999"	"Drug-induced causes"	"D"	89	1811799	4.9	4.9	0.0%
+	"West Virginia"	"54"	"2000"	"2000"	"Drug-induced causes"	"D"	138	1808344	7.6	7.5	0.0%
+	"West Virginia"	"54"	"2001"	"2001"	"Drug-induced causes"	"D"	230	1801481	12.8	12.7	0.0%
+	"West Virginia"	"54"	"2002"	"2002"	"Drug-induced causes"	"D"	247	1805414	13.7	13.9	0.0%
+	"West Virginia"	"54"	"2003"	"2003"	"Drug-induced causes"	"D"	293	1812295	16.2	16.8	0.0%
+	"West Virginia"	"54"	"2004"	"2004"	"Drug-induced causes"	"D"	375	1816438	20.6	21.0	0.1%
+	"West Virginia"	"54"	"2005"	"2005"	"Drug-induced causes"	"D"	218	1820492	12.0	12.3	0.0%
+	"West Virginia"	"54"	"2006"	"2006"	"Drug-induced causes"	"D"	397	1827912	21.7	22.3	0.1%
+	"West Virginia"	"54"	"2007"	"2007"	"Drug-induced causes"	"D"	432	1834052	23.6	24.3	0.1%
+	"West Virginia"	"54"	"2008"	"2008"	"Drug-induced causes"	"D"	496	1840310	27.0	27.6	0.1%
+	"West Virginia"	"54"	"2009"	"2009"	"Drug-induced causes"	"D"	253	1847775	13.7	14.0	0.0%
+	"West Virginia"	"54"	"2010"	"2010"	"Drug-induced causes"	"D"	579	1852994	31.2	32.4	0.1%
+	"West Virginia"	"54"	"2011"	"2011"	"Drug-induced causes"	"D"	723	1855364	39.0	41.1	0.1%
+	"West Virginia"	"54"	"2012"	"2012"	"Drug-induced causes"	"D"	666	1855413	35.9	37.6	0.1%
+	"West Virginia"	"54"	"2013"	"2013"	"Drug-induced causes"	"D"	648	1854304	34.9	36.4	0.1%
+	"West Virginia"	"54"	"2014"	"2014"	"Drug-induced causes"	"D"	688	1850326	37.2	38.9	0.1%
+	"West Virginia"	"54"	"2015"	"2015"	"Drug-induced causes"	"D"	806	1844128	43.7	46.1	0.1%
+	"West Virginia"	"54"	"2016"	"2016"	"Drug-induced causes"	"D"	973	1831102	53.1	57.1	0.1%
+	"Wisconsin"	"55"	"1999"	"1999"	"Drug-induced causes"	"D"	246	5332666	4.6	4.6	0.0%
+	"Wisconsin"	"55"	"2000"	"2000"	"Drug-induced causes"	"D"	272	5363675	5.1	5.1	0.0%
+	"Wisconsin"	"55"	"2001"	"2001"	"Drug-induced causes"	"D"	302	5406835	5.6	5.5	0.0%
+	"Wisconsin"	"55"	"2002"	"2002"	"Drug-induced causes"	"D"	361	5445162	6.6	6.6	0.1%
+	"Wisconsin"	"55"	"2003"	"2003"	"Drug-induced causes"	"D"	409	5479203	7.5	7.5	0.1%
+	"Wisconsin"	"55"	"2004"	"2004"	"Drug-induced causes"	"D"	468	5514026	8.5	8.4	0.1%
+	"Wisconsin"	"55"	"2005"	"2005"	"Drug-induced causes"	"D"	553	5546166	10.0	9.9	0.1%
+	"Wisconsin"	"55"	"2006"	"2006"	"Drug-induced causes"	"D"	641	5577655	11.5	11.4	0.1%
+	"Wisconsin"	"55"	"2007"	"2007"	"Drug-induced causes"	"D"	656	5610775	11.7	11.7	0.1%
+	"Wisconsin"	"55"	"2008"	"2008"	"Drug-induced causes"	"D"	624	5640996	11.1	10.9	0.1%
+	"Wisconsin"	"55"	"2009"	"2009"	"Drug-induced causes"	"D"	658	5669264	11.6	11.4	0.1%
+	"Wisconsin"	"55"	"2010"	"2010"	"Drug-induced causes"	"D"	673	5686986	11.8	11.6	0.1%
+	"Wisconsin"	"55"	"2011"	"2011"	"Drug-induced causes"	"D"	736	5711767	12.9	12.7	0.1%
+	"Wisconsin"	"55"	"2012"	"2012"	"Drug-induced causes"	"D"	721	5726398	12.6	12.7	0.1%
+	"Wisconsin"	"55"	"2013"	"2013"	"Drug-induced causes"	"D"	886	5742713	15.4	15.5	0.1%
+	"Wisconsin"	"55"	"2014"	"2014"	"Drug-induced causes"	"D"	887	5757564	15.4	15.6	0.1%
+	"Wisconsin"	"55"	"2015"	"2015"	"Drug-induced causes"	"D"	915	5771337	15.9	16.1	0.1%
+	"Wisconsin"	"55"	"2016"	"2016"	"Drug-induced causes"	"D"	1122	5778708	19.4	20.1	0.2%
+	"Wyoming"	"56"	"1999"	"1999"	"Drug-induced causes"	"D"	25	491780	5.1	5.1	0.0%
+	"Wyoming"	"56"	"2000"	"2000"	"Drug-induced causes"	"D"	22	493782	4.5	4.6	0.0%
+	"Wyoming"	"56"	"2001"	"2001"	"Drug-induced causes"	"D"	25	494657	5.1	5.1	0.0%
+	"Wyoming"	"56"	"2002"	"2002"	"Drug-induced causes"	"D"	37	500017	7.4	7.5	0.0%
+	"Wyoming"	"56"	"2003"	"2003"	"Drug-induced causes"	"D"	32	503453	6.4	6.3	0.0%
+	"Wyoming"	"56"	"2004"	"2004"	"Drug-induced causes"	"D"	49	509106	9.6	9.8	0.0%
+	"Wyoming"	"56"	"2005"	"2005"	"Drug-induced causes"	"D"	27	514157	5.3	5.1	0.0%
+	"Wyoming"	"56"	"2006"	"2006"	"Drug-induced causes"	"D"	60	522667	11.5	11.4	0.0%
+	"Wyoming"	"56"	"2007"	"2007"	"Drug-induced causes"	"D"	66	534876	12.3	12.8	0.0%
+	"Wyoming"	"56"	"2008"	"2008"	"Drug-induced causes"	"D"	88	546043	16.1	16.5	0.0%
+	"Wyoming"	"56"	"2009"	"2009"	"Drug-induced causes"	"D"	65	559851	11.6	11.8	0.0%
+	"Wyoming"	"56"	"2010"	"2010"	"Drug-induced causes"	"D"	90	563626	16.0	15.9	0.0%
+	"Wyoming"	"56"	"2011"	"2011"	"Drug-induced causes"	"D"	96	568158	16.9	17.1	0.0%
+	"Wyoming"	"56"	"2012"	"2012"	"Drug-induced causes"	"D"	110	576412	19.1	18.9	0.0%
+	"Wyoming"	"56"	"2013"	"2013"	"Drug-induced causes"	"D"	108	582658	18.5	18.9	0.0%
+	"Wyoming"	"56"	"2014"	"2014"	"Drug-induced causes"	"D"	115	584153	19.7	20.3	0.0%
+	"Wyoming"	"56"	"2015"	"2015"	"Drug-induced causes"	"D"	105	586107	17.9	17.9	0.0%
+	"Wyoming"	"56"	"2016"	"2016"	"Drug-induced causes"	"D"	108	585501	18.4	19.2	0.0%
