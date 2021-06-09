@@ -100,7 +100,7 @@ q <- dfNew %>%
 q
 ```
 
-Above is the opioid prescription rate against the deaths related to overdose per population ratio. The graph shows that as the opioid prescription rate decreases over time, the death per population ratio increases. 
+Above is the opioid prescription rate against the deaths related to overdose per population ratio. The graph doesn't provide a super strong relationship, but we can form a general consensus that as the opioid prescription rate decreases over time, the death per population ratio increases. Let's look into them. 
 
 ```{r}
 df_op_change <-
@@ -112,7 +112,7 @@ df_op_change <-
 
 ```
 
-
+While the graph shows that the opioid prescription rate looks to be decreasing, above is a table showing the change in the prescription rate variable. It has definitely decreased.
 
 ```{r}
 glyphReady <-
@@ -126,7 +126,7 @@ ggplot(glyphReady, aes(x = Year, y = avg_deathperpop))+
 ```
 
 
-As you can see, the opioid prescription rate has been decreasing over the past few years, yet the deaths related to opioid misuse have been increasing. Although there may be a lag taking place, I decided to see if the extended-release opioid prescription rate has anything intriguing to show
+As you can see, the deaths related to opioid misuse have been increasing. Although there may be a lag taking place, I decided to see if the extended-release opioid prescription rate has anything intriguing to show
 
 
 ```{r}
@@ -170,7 +170,7 @@ df_extendedop_change <-
 
 
 
-Here we see that the prescription rates for extended-release opioid have been increasing over time.
+Above we see that the prescription rates for extended-release opioid have been increasing over time.
 
 
 
@@ -182,7 +182,7 @@ ggplot(glyphReady, aes(x = Year, y = avg_deathperpop))+
   labs(title = "The national average of opioid related deaths has been growing every year")
 ```
 
-Here, we can see that the national opioid related death average has been going up. This matches up with the extended-release graph, rather than the regular opioid graph.
+Here is the graph of deaths increasing again for reference. This matches up with the extended-release graph, rather than the regular opioid graph.
 
 
 
