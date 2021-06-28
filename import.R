@@ -1,5 +1,12 @@
 library(readr)
 library(tidy)
+library(readr)
+library(mdsr)
+library(ggplot2)
+library(maps)
+library(plotly)
+library(readxl)
+library(dplyr)
 
 #Url: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/OpioidMap.html
 
